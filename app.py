@@ -4,8 +4,13 @@ from dotenv import load_dotenv
 import anthropic
 import streamlit as st
 
-# Load the API key from the .env file
+# Load the API key from the .env file (on Streamlit Cloud, it comes from Secrets)
 load_dotenv()
+
+# Limit how many summaries one visitor can run per visit, to control cost
+MAX_RUNS = 3
+if "runs" not in st.session_state:
+    st.session_state.runs = 0
 
 # Page title and description
 st.set_page_config(page_title="Regulatory Change Summarizer", layout="wide")
@@ -34,8 +39,14 @@ notice_text = st.text_area("Paste the regulatory document text", height=300)
 
 # When the button is clicked
 if st.button("Summarize"):
+    # Usage limit check comes first
+    if st.session_state.runs >= MAX_RUNS:
+        st.warning(
+            f"This demo allows {MAX_RUNS} summaries per visit to keep costs under control. "
+            "Thanks for trying it."
+        )
     # Basic input checks, which also control cost
-    if len(notice_text.strip()) < 200:
+    elif len(notice_text.strip()) < 200:
         st.warning("This looks too short to analyze. Please paste the full document text.")
     elif len(notice_text) > 100000:
         st.warning("This document is too long for this demo. Please paste a shorter section.")
@@ -57,7 +68,12 @@ if st.button("Summarize"):
                 ],
             )
 
+        # Count this run against the visitor's limit
+        st.session_state.runs += 1
+
         # Show the answer, skipping the reasoning blocks
         for block in response.content:
             if block.type == "text":
                 st.markdown(block.text)
+
+        st.caption(f"Summaries used this visit: {st.session_state.runs} of {MAX_RUNS}")
