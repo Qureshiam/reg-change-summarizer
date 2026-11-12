@@ -1,0 +1,13 @@
+FICTIONAL TEST NOTICE - FOR TESTING ONLY
+
+Bureau of Consumer Financial Protection
+12 CFR Part 1024 (Regulation X)
+Final Rule: Escrow Account Statement Disclosures
+
+Summary: The Bureau is amending Regulation X to require servicers to include, in the annual escrow account statement, an itemized explanation of any change in the monthly escrow payment greater than 10 percent compared with the prior year, including the specific tax or insurance item that caused the change.
+
+The Bureau is also removing the requirement that servicers send a separate short-year statement when a loan is transferred, provided the transferee servicer's first annual statement covers the full transfer period. All other short-year statement requirements remain in effect.
+
+Applicability: This rule applies to all servicers subject to Regulation X. Small servicers, as defined in 12 CFR 1026.41(e)(4), must comply with the itemized explanation requirement but may provide it in a separate letter rather than within the annual statement.
+
+Dates: This rule is effective January 1, 2027. Compliance with the itemized explanation requirement is mandatory for annual escrow statements issued on or after July 1, 2027.
