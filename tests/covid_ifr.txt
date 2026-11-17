@@ -1,0 +1,503 @@
+[Federal Register Volume 90, Number 94 (Friday, May 16, 2025)]
+[Rules and Regulations]
+[Pages 20791-20795]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-08643]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+CONSUMER FINANCIAL PROTECTION BUREAU
+
+12 CFR Part 1024
+
+[Docket No. CFPB-2025-0014]
+RIN 3170-AB42
+
+
+Protections for Borrowers Affected by the COVID-19 Emergency 
+Under the Real Estate Settlement Procedures Act (RESPA), Regulation X; 
+Rescission
+
+AGENCY: Consumer Financial Protection Bureau.
+
+ACTION: Interim final rule; request for public comment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This interim final rule (IFR) rescinds the final rule 
+``Protections for Borrowers Affected by the COVID-19 Emergency Under 
+the Real Estate Settlement Procedures Act (RESPA), Regulation X.''
+
+DATES: This IFR is effective on July 15, 2025. Comments must be 
+received on or before June 16, 2025.
+
+ADDRESSES: You may submit responsive information and other comments, 
+identified by Docket No. CFPB-2025-0014, by any of the following 
+methods:
+     Federal eRulemaking Portal: https://www.regulations.gov. 
+Follow the instructions for submitting comments. A brief summary of 
+this document will be available at https://www.regulations.gov/docket/CFPB-2025-0014.
+     Email: 2025-COVID-Mortgage-Servicing-Rescission@cfpb.gov. 
+Include Docket No. CFPB-2025-0014 in the subject line of the message.
+     Mail/Hand Delivery/Courier: Comment Intake--Protections 
+for Borrowers Affected by the COVID-19 Emergency Under the Real Estate 
+Settlement Procedures Act (RESPA), Regulation X, Rescission, c/o Legal 
+Division Docket Manager, Consumer Financial Protection Bureau, 1700 G 
+Street NW, Washington, DC 20552.
+    Instructions: The CFPB encourages the early submission of comments. 
+All submissions should include the agency name and docket number. 
+Additionally, where the Bureau has asked for specific comment on a 
+topic, commentors should seek to highlight the topic to which its 
+comment is applicable. Because paper mail is subject to delay, 
+commenters are encouraged to submit
+
+[[Page 20792]]
+
+comments electronically. In general, all comments received will be 
+posted without change to https://www.regulations.gov. All submissions, 
+including attachments and other supporting materials, will become part 
+of the public record and subject to public disclosure. Proprietary 
+information or sensitive personal information, such as account numbers 
+or Social Security numbers, or names of other individuals, should not 
+be included. Submissions will not be edited to remove any identifying 
+or contact information.
+
+FOR FURTHER INFORMATION CONTACT: Dave Gettler, Paralegal Specialist, 
+Office of Regulations, at 202-435-7700. If you require this document in 
+an alternative electronic format, please contact 
+CFPB_Accessibility@cfpb.gov.
+
+SUPPLEMENTARY INFORMATION: This IFR rescinds ``Protections for 
+Borrowers Affected by the COVID-19 Emergency Under the Real Estate 
+Settlement Procedures Act (RESPA), Regulation X,'' 86 FR 34848 (June 
+30, 2021) (2021 COVID RESPA Rule), for two reasons:
+    First, the 2021 COVID RESPA Rule adopted temporary procedural 
+safeguards related to mortgage foreclosure, temporarily permitted 
+mortgage servicers to offer certain loan modifications made available 
+to borrowers experiencing a COVID-19 related hardship, and finalized 
+certain temporary amendments to Regulation X related to the COVID-19 
+pandemic. The rule stated that the temporary procedural safeguards do 
+not apply if a servicer makes the first notice or filing required by 
+applicable law for any judicial or non-judicial foreclosure process on 
+or after January 1, 2022. In addition, the rule stated that the 
+temporary COVID-19 related live contact requirements would only be 
+required until October 1, 2022. On April 10, 2023, then-President Biden 
+signed a joint resolution of Congress declaring that ``the national 
+emergency declared by the finding of the President on March 13, 2020'' 
+related to the COVID-19 pandemic ``is hereby terminated.'' See Public 
+Law 118-3 (Apr. 10, 2023). The Bureau finds that it has good cause to 
+remove, without prior notice and comment, language relating to the 
+COVID-19 pandemic added by the 2021 COVID RESPA Rule, as prior notice 
+and comment is unnecessary. Both the temporary additional early 
+intervention live contact requirements and the temporary special COVID-
+19 loss mitigation procedural safeguards have been sunset by their own 
+terms, and the COVID-19 Public Health Emergency expired on May 11, 
+2023. Thus, borrowers and servicers are no longer utilizing these 
+safeguards. Moreover, the Bureau proposed a rule on July 24, 2024 (89 
+FR 60204), that would provide additional flexibility to servicers to 
+offer streamlined loss mitigation options when borrowers seek payment 
+assistance. As part of the revised framework, the proposal would have 
+removed the provisions implemented in response to the COVID-19 
+pandemic, and the Bureau did not receive public comments on the 
+proposed removal of those provisions. As part of any future rulemaking, 
+the Bureau would consider and address comments received in response to 
+the 2024 proposed rule, including comments related to applying the loss 
+mitigation lessons learned from the COVID-19 pandemic.
+    Second, it is the policy of the Bureau to streamline regulatory 
+requirements to reduce burdens on the American public. The Bureau has 
+determined that, in light of the end of the COVID-19 pandemic, these 
+regulations needlessly complicate Regulation X without commensurate 
+benefits.
+
+Section 1022 Analysis
+
+    In developing this rule, the Bureau has considered the potential 
+benefits, costs, and impacts as required by section 1022(b)(2)(A) of 
+the Consumer Financial Protection Act of 2010 (CFPA), 12 U.S.C. 
+5512(b)(2)(A). This rule does not impose any costs to consumers or 
+covered persons or have any direct impact on consumers' access to 
+consumer financial products or services. Further, it has no unique 
+impact on insured depository institutions or insured credit unions with 
+less than $10 billion in assets, as described in section 1026(a) of the 
+CFPA. Finally, it does not have any unique impact on rural consumers.
+
+Legal Authority
+
+    The Bureau is issuing this IFR pursuant to its authority under 12 
+U.S.C. 2617(a), 2506(j)(3), and 2605(k)(1)(E); 12 U.S.C. 5512(b)(1); 
+and 12 U.S.C. 5532.
+
+List of Subjects in 12 CFR Part 1024
+
+    Banks, Banking, Condominiums, Consumer protection, Credit unions, 
+Housing, Mortgage insurance, Mortgages, National banks, Reporting and 
+recordkeeping requirements, Savings associations.
+
+Authority and Issuance
+
+    For the reasons set forth in the preamble, the Bureau amends 
+Regulation X, 12 CFR part 1024, as set forth below:
+
+PART 1024--REAL ESTATE SETTLEMENT PROCEDURES ACT (REGULATION X)
+
+0
+1. The authority citation for part 1024 continues to read as follows:
+
+    Authority:  12 U.S.C. 2603-2605, 2607, 2609, 2617, 5512, 5532, 
+5581.
+
+Subpart C--Mortgage Servicing
+
+
+Sec.  1024.31  [Amended]
+
+0
+2. Amend Sec.  1024.31 by removing the definition of ``COVID-19-related 
+hardship.''
+
+0
+3. Amend Sec.  1024.39 by:
+0
+a. Revising paragraph (a); and
+0
+b. Removing paragraph (e).
+    The revision reads as follows:
+
+
+Sec.  1024.39  Early intervention requirements for certain borrowers.
+
+    (a) Live contact. Except as otherwise provided in this section, a 
+servicer shall establish or make good faith efforts to establish live 
+contact with a delinquent borrower no later than the 36th day of a 
+borrower's delinquency and again no later than 36 days after each 
+payment due date so long as the borrower remains delinquent. Promptly 
+after establishing live contact with a borrower, the servicer shall 
+inform the borrower about the availability of loss mitigation options, 
+if appropriate.
+* * * * *
+
+0
+4. Amend Sec.  1024.41 by:
+0
+a. Revising paragraphs (c)(2)(i) and (c)(2)(v)(A)(1); and
+0
+b. Removing paragraphs (c)(2)(vi) and (f)(3).
+    The revisions read as follows:
+
+
+Sec.  1024.41  Loss mitigation procedures.
+
+* * * * *
+    (c) * * *
+    (2) * * *
+    (i) In general. Except as set forth in paragraphs (c)(2)(ii), 
+(iii), and (v) of this section, a servicer shall not evade the 
+requirement to evaluate a complete loss mitigation application for all 
+loss mitigation options available to the borrower by offering a loss 
+mitigation option based upon an evaluation of any information provided 
+by a borrower in connection with an incomplete loss mitigation 
+application.
+* * * * *
+    (v) * * *
+    (A) * * *
+    (1) The loss mitigation option permits the borrower to delay paying 
+covered amounts until the mortgage loan is refinanced, the mortgaged 
+property is sold, the term of the mortgage loan ends, or, for a 
+mortgage loan insured by the Federal Housing Administration, the
+
+[[Page 20793]]
+
+mortgage insurance terminates. For purposes of this paragraph 
+(c)(2)(v)(A)(1), ``covered amounts'' includes, without limitation, all 
+principal and interest payments forborne under a payment forbearance 
+program made available to borrowers experiencing a COVID-19-related 
+hardship, including a payment forbearance program made pursuant to the 
+Coronavirus Economic Stabilization Act, section 4022 (15 U.S.C. 9056); 
+it also includes, without limitation, all other principal and interest 
+payments that are due and unpaid by a borrower experiencing COVID-19-
+related hardship. For purposes of this paragraph (c)(2)(v)(A)(1), ``the 
+term of the mortgage loan'' means the term of the mortgage loan 
+according to the obligation between the parties in effect when the 
+borrower is offered the loss mitigation option.
+* * * * *
+
+0
+5. Amend supplement I by:
+0
+a. Under Sec.  1024.39--Early Intervention Requirements for Certain 
+Borrowers, revising 39(a) Live Contact; and
+0
+b. Under Sec.  1024.41--Loss Mitigation Procedures:
+0
+i. Revising 41(b)(1) Complete Loss Mitigation Application; and
+0
+ii. Removing 41(f)(3) Temporary Special COVID-19 Loss Mitigation 
+Procedural Safeguards and 41(f)(3)(ii)(C) Unresponsive Borrower.
+    The revisions read as follows:
+
+Supplement I to Part 1024--Official Bureau Interpretations
+
+* * * * *
+
+Subpart C--Mortgage Servicing
+
+* * * * *
+
+
+Sec.  1024.39  Early Intervention Requirements for Certain Borrowers
+
+    39(a) Live Contact.
+    1. Delinquency. Section 1024.39 requires a servicer to establish or 
+attempt to establish live contact no later than the 36th day of a 
+borrower's delinquency. This provision is illustrated as follows:
+    i. Assume a mortgage loan obligation with a monthly billing cycle 
+and monthly payments of $2,000 representing principal, interest, and 
+escrow due on the first of each month.
+    A. The borrower fails to make a payment of $2,000 on, and makes no 
+payment during the 36-day period after, January 1. The servicer must 
+establish or make good faith efforts to establish live contact not 
+later than 36 days after January 1--i.e., on or before February 6.
+    B. The borrower makes no payments during the period January 1 
+through April 1, although payments of $2,000 each on January 1, 
+February 1, and March 1 are due. Assuming it is not a leap year, the 
+borrower is 90 days delinquent as of April 1. The servicer may time its 
+attempts to establish live contact such that a single attempt will meet 
+the requirements of Sec.  1024.39(a) for two missed payments. To 
+illustrate, the servicer complies with Sec.  1024.39(a) if the servicer 
+makes a good faith effort to establish live contact with the borrower, 
+for example, on February 5 and again on March 25. The February 5 
+attempt meets the requirements of Sec.  1024.39(a) for both the January 
+1 and February 1 missed payments. The March 25 attempt meets the 
+requirements of Sec.  1024.39(a) for the March 1 missed payment.
+    ii. A borrower who is performing as agreed under a loss mitigation 
+option designed to bring the borrower current on a previously missed 
+payment is not delinquent for purposes of Sec.  1024.39.
+    iii. During the 60-day period beginning on the effective date of 
+transfer of the servicing of any mortgage loan, a borrower is not 
+delinquent for purposes of Sec.  1024.39 if the transferee servicer 
+learns that the borrower has made a timely payment that has been 
+misdirected to the transferor servicer and the transferee servicer 
+documents its files accordingly. See Sec.  1024.33(c)(1) and comment 
+33(c)(1)-2.
+    iv. A servicer need not establish live contact with a borrower 
+unless the borrower is delinquent during the 36 days after a payment 
+due date. If the borrower satisfies a payment in full before the end of 
+the 36-day period, the servicer need not establish live contact with 
+the borrower. For example, if a borrower misses a January 1 due date 
+but makes that payment on February 1, a servicer need not establish or 
+make good faith efforts to establish live contact by February 6.
+    2. Establishing live contact. Live contact provides servicers an 
+opportunity to discuss the circumstances of a borrower's delinquency. 
+Live contact with a borrower includes speaking on the telephone or 
+conducting an in-person meeting with the borrower but not leaving a 
+recorded phone message. A servicer may rely on live contact established 
+at the borrower's initiative to satisfy the live contact requirement in 
+Sec.  1024.39(a). Servicers may also combine contacts made pursuant to 
+Sec.  1024.39(a) with contacts made with borrowers for other reasons, 
+for instance, by telling borrowers on collection calls that loss 
+mitigation options may be available.
+    3. Good faith efforts. Good faith efforts to establish live contact 
+consist of reasonable steps, under the circumstances, to reach a 
+borrower and may include telephoning the borrower on more than one 
+occasion or sending written or electronic communication encouraging the 
+borrower to establish live contact with the servicer. The length of a 
+borrower's delinquency, as well as a borrower's failure to respond to a 
+servicer's repeated attempts at communication pursuant to Sec.  
+1024.39(a), are relevant circumstances to consider. For example, 
+whereas ``good faith efforts'' to establish live contact with regard to 
+a borrower with two consecutive missed payments might require a 
+telephone call, ``good faith efforts'' to establish live contact with 
+regard to an unresponsive borrower with six or more consecutive missed 
+payments might require no more than including a sentence requesting 
+that the borrower contact the servicer with regard to the delinquencies 
+in the periodic statement or in an electronic communication. Comment 
+39(a)-6 discusses the relationship between live contact and the loss 
+mitigation procedures set forth in Sec.  1024.41.
+    4. Promptly inform if appropriate.
+    i. Servicer's determination. It is within a servicer's reasonable 
+discretion to determine whether informing a borrower about the 
+availability of loss mitigation options is appropriate under the 
+circumstances. The following examples demonstrate when a servicer has 
+made a reasonable determination regarding the appropriateness of 
+providing information about loss mitigation options.
+    A. A servicer provides information about the availability of loss 
+mitigation options to a borrower who notifies a servicer during live 
+contact of a material adverse change in the borrower's financial 
+circumstances that is likely to cause the borrower to experience a 
+long-term delinquency for which loss mitigation options may be 
+available.
+    B. A servicer does not provide information about the availability 
+of loss mitigation options to a borrower who has missed a January 1 
+payment and notified the servicer that full late payment will be 
+transmitted to the servicer by February 15.
+    ii. Promptly inform. If appropriate, a servicer may inform 
+borrowers about the availability of loss mitigation options orally, in 
+writing, or through electronic communication, but the servicer must 
+provide such information promptly after the servicer establishes live 
+contact. A servicer need not notify a borrower about any particular 
+loss mitigation options at this time; if appropriate, a
+
+[[Page 20794]]
+
+servicer need only inform borrowers generally that loss mitigation 
+options may be available. If appropriate, a servicer may satisfy the 
+requirement in Sec.  1024.39(a) to inform a borrower about loss 
+mitigation options by providing the written notice required by Sec.  
+1024.39(b)(1), but the servicer must provide such notice promptly after 
+the servicer establishes live contact.
+    5. Borrower's representative. Section 1024.39 does not prohibit a 
+servicer from satisfying its requirements by establishing live contact 
+with and, if applicable, providing information about loss mitigation 
+options to a person authorized by the borrower to communicate with the 
+servicer on the borrower's behalf. A servicer may undertake reasonable 
+procedures to determine if a person that claims to be an agent of a 
+borrower has authority from the borrower to act on the borrower's 
+behalf, for example, by requiring a person that claims to be an agent 
+of the borrower to provide documentation from the borrower stating that 
+the purported agent is acting on the borrower's behalf.
+    6. Relationship between live contact and loss mitigation 
+procedures. If the servicer has established and is maintaining ongoing 
+contact with the borrower under the loss mitigation procedures under 
+Sec.  1024.41, including during the borrower's completion of a loss 
+mitigation application or the servicer's evaluation of the borrower's 
+complete loss mitigation application, or if the servicer has sent the 
+borrower a notice pursuant to Sec.  1024.41(c)(1)(ii) that the borrower 
+is not eligible for any loss mitigation options, the servicer complies 
+with Sec.  1024.39(a) and need not otherwise establish or make good 
+faith efforts to establish live contact. A servicer must resume 
+compliance with the requirements of Sec.  1024.39(a) for a borrower who 
+becomes delinquent again after curing a prior delinquency.
+* * * * *
+
+
+Sec.  1024.41  Loss Mitigation Procedures
+
+* * * * *
+    41(b)(1) Complete loss mitigation application.
+    1. In general. A servicer has flexibility to establish its own 
+application requirements and to decide the type and amount of 
+information it will require from borrowers applying for loss mitigation 
+options. In the course of gathering documents and information from a 
+borrower to complete a loss mitigation application, a servicer may stop 
+collecting documents and information for a particular loss mitigation 
+option after receiving information confirming that, pursuant to any 
+requirements established by the owner or assignee of the borrower's 
+mortgage loan, the borrower is ineligible for that option. A servicer 
+may not stop collecting documents and information for any loss 
+mitigation option based solely upon the borrower's stated preference 
+but may stop collecting documents and information for any loss 
+mitigation option based on the borrower's stated preference in 
+conjunction with other information, as prescribed by any requirements 
+established by the owner or assignee. A servicer must continue to 
+exercise reasonable diligence to obtain documents and information from 
+the borrower that the servicer requires to evaluate the borrower as to 
+all other loss mitigation options available to the borrower. For 
+example:
+    i. Assume a particular loss mitigation option is only available for 
+borrowers whose mortgage loans were originated before a specific date. 
+Once a servicer receives documents or information confirming that a 
+mortgage loan was originated after that date, the servicer may stop 
+collecting documents or information from the borrower that the servicer 
+would use to evaluate the borrower for that loss mitigation option, but 
+the servicer must continue its efforts to obtain documents and 
+information from the borrower that the servicer requires to evaluate 
+the borrower for all other available loss mitigation options.
+    ii. Assume applicable requirements established by the owner or 
+assignee of the mortgage loan provide that a borrower is ineligible for 
+home retention loss mitigation options if the borrower states a 
+preference for a short sale and provides evidence of another applicable 
+hardship, such as military Permanent Change of Station orders or an 
+employment transfer more than 50 miles away. If the borrower indicates 
+a preference for a short sale or, more generally, not to retain the 
+property, the servicer may not stop collecting documents and 
+information from the borrower pertaining to available home retention 
+options solely because the borrower has indicated such a preference, 
+but the servicer may stop collecting such documents and information 
+once the servicer receives information confirming that the borrower has 
+an applicable hardship under requirements established by the owner or 
+assignee, such as military Permanent Change of Station orders or 
+employment transfer.
+    2. When an inquiry or prequalification request becomes an 
+application. A servicer is encouraged to provide borrowers with 
+information about loss mitigation programs. If in giving information to 
+the borrower, the borrower expresses an interest in applying for a loss 
+mitigation option and provides information the servicer would evaluate 
+in connection with a loss mitigation application, the borrower's 
+inquiry or prequalification request has become a loss mitigation 
+application. A loss mitigation application is considered expansively 
+and includes any ``prequalification'' for a loss mitigation option. For 
+example, if a borrower requests that a servicer determine if the 
+borrower is ``prequalified'' for a loss mitigation program by 
+evaluating the borrower against preliminary criteria to determine 
+eligibility for a loss mitigation option, the request constitutes a 
+loss mitigation application.
+    3. Examples of inquiries that are not applications. The following 
+examples illustrate situations in which only an inquiry has taken place 
+and no loss mitigation application has been submitted:
+    i. A borrower calls to ask about loss mitigation options and 
+servicer personnel explain the loss mitigation options available to the 
+borrower and the criteria for determining the borrower's eligibility 
+for any such loss mitigation option. The borrower does not, however, 
+provide any information that a servicer would consider for evaluating a 
+loss mitigation application.
+    ii. A borrower calls to ask about the process for applying for a 
+loss mitigation option but the borrower does not provide any 
+information that a servicer would consider for evaluating a loss 
+mitigation application.
+    4. Although a servicer has flexibility to establish its own 
+requirements regarding the documents and information necessary for a 
+loss mitigation application, the servicer must act with reasonable 
+diligence to collect information needed to complete the application. A 
+servicer must request information necessary to make a loss mitigation 
+application complete promptly after receiving the loss mitigation 
+application. Reasonable diligence for purposes of Sec.  1024.41(b)(1) 
+includes, without limitation, the following actions:
+    i. A servicer requires additional information from the applicant, 
+such as an address or a telephone number to verify employment; the 
+servicer contacts the applicant promptly to obtain such information 
+after receiving a loss mitigation application;
+    ii. Servicing for a mortgage loan is transferred to a servicer and 
+the borrower makes an incomplete loss mitigation application to the 
+transferee servicer after the transfer; the transferee
+
+[[Page 20795]]
+
+servicer reviews documents provided by the transferor servicer to 
+determine if information required to make the loss mitigation 
+application complete is contained within documents transferred by the 
+transferor servicer to the servicer; and
+    iii. A servicer offers a borrower a short-term payment forbearance 
+program or a short-term repayment plan based on an evaluation of an 
+incomplete loss mitigation application and provides the borrower the 
+written notice pursuant to Sec.  1024.41(c)(2)(iii). If the borrower 
+remains in compliance with the short-term payment forbearance program 
+or short-term repayment plan, and the borrower does not request further 
+assistance, the servicer may suspend reasonable diligence efforts until 
+near the end of the payment forbearance program or repayment plan. 
+However, if the borrower fails to comply with the program or plan or 
+requests further assistance, the servicer must immediately resume 
+reasonable diligence efforts. Near the end of a short-term payment 
+forbearance program offered based on an evaluation of an incomplete 
+loss mitigation application pursuant to Sec.  1024.41(c)(2)(iii), and 
+prior to the end of the forbearance period, if the borrower remains 
+delinquent, a servicer must contact the borrower to determine if the 
+borrower wishes to complete the loss mitigation application and proceed 
+with a full loss mitigation evaluation.
+    5. Information not in the borrower's control. A loss mitigation 
+application is complete when a borrower provides all information 
+required from the borrower notwithstanding that additional information 
+may be required by a servicer that is not in the control of a borrower. 
+For example, if a servicer requires a consumer report for a loss 
+mitigation evaluation, a loss mitigation application is considered 
+complete if a borrower has submitted all information required from the 
+borrower without regard to whether a servicer has obtained a consumer 
+report that a servicer has requested from a consumer reporting agency.
+* * * * *
+
+Russell Vought,
+Acting Director, Consumer Financial Protection Bureau.
+[FR Doc. 2025-08643 Filed 5-15-25; 8:45 am]
+BILLING CODE 4810-AM-P
+

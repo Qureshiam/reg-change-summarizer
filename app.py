@@ -55,18 +55,25 @@ if st.button("Summarize"):
         today = date.today().strftime("%B %d, %Y")
 
         client = anthropic.Anthropic()
-        with st.spinner("Reading the document. This takes about 30 seconds..."):
-            response = client.messages.create(
-                model="claude-sonnet-5-5",
-                max_tokens=4000,
-                system=system_prompt,
-                messages=[
-                    {
-                        "role": "user",
-                        "content": f"Today's date: {today}\n\n{profile}\n\n<document>\n{notice_text}\n</document>",
-                    }
-                ],
+        try:
+            with st.spinner("Reading the document. This can take up to a minute for long rules..."):
+                response = client.messages.create(
+                    model="claude-sonnet-5-5",
+                    max_tokens=16000,
+                    system=system_prompt,
+                    messages=[
+                        {
+                            "role": "user",
+                            "content": f"Today's date: {today}\n\n{profile}\n\n<document>\n{notice_text}\n</document>",
+                        }
+                    ],
+                )
+        except anthropic.APIError:
+            st.error(
+                "The summarizer is temporarily unavailable. This demo has a monthly "
+                "usage cap, which may have been reached. Please try again later."
             )
+            st.stop()
 
         # Count this run against the visitor's limit
         st.session_state.runs += 1
@@ -75,5 +82,12 @@ if st.button("Summarize"):
         for block in response.content:
             if block.type == "text":
                 st.markdown(block.text)
+
+        # Warn if the answer was cut off by the length limit
+        if response.stop_reason == "max_tokens":
+            st.warning(
+                "This summary was cut off because it reached the length limit. "
+                "Try pasting a shorter section of the document."
+            )
 
         st.caption(f"Summaries used this visit: {st.session_state.runs} of {MAX_RUNS}")
