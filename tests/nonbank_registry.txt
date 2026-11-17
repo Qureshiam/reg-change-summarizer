@@ -1,0 +1,2337 @@
+[Federal Register Volume 90, Number 207 (Wednesday, October 29, 2025)]
+[Rules and Regulations]
+[Pages 48760-48776]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-19689]
+
+
+-----------------------------------------------------------------------
+
+CONSUMER FINANCIAL PROTECTION BUREAU
+
+12 CFR Part 1092
+
+[Docket No. CFPB-2025-0011]
+RIN 3170-AB32
+
+
+Registry of Nonbank Covered Persons Subject to Certain Agency and 
+Court Orders; Rescission
+
+AGENCY: Consumer Financial Protection Bureau.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Consumer Financial Protection Bureau (Bureau or CFPB) is 
+issuing a final rule to rescind its rule requiring certain types of 
+nonbank covered persons subject to certain final public orders obtained 
+or issued by a government agency in connection with the offering or 
+provision of a consumer financial product or service to report the 
+existence of the orders and related information to a Bureau registry.
+
+DATES: This rule is effective on October 29, 2025.
+
+FOR FURTHER INFORMATION CONTACT: Dave Gettler, Paralegal, Office of 
+Regulations, at 202-435-7700. If you require this document in an 
+alternative electronic format, please contact 
+CFPB_Accessibility@cfpb.gov.
+
+SUPPLEMENTARY INFORMATION:
+
+I. Summary of the Final Rule
+
+    Pursuant to its authority under sections 1022(b), 1022(c)(1)-(4), 
+and 1024(b) of the Consumer Financial Protection Act of 2010, 12 U.S.C. 
+5512 and 5514 (CFPA), the Bureau is adopting this final rule to rescind 
+its rule adopted on July 8, 2024, via 89 FR 56028, Registry of Nonbank 
+Covered Persons Subject to Certain Agency and Court Orders, and 
+codified in 12 CFR part 1092 (the ``NBR Rule''). The NBR Rule requires 
+certain types of nonbank covered persons subject to certain final 
+public orders obtained or issued by a government agency in connection 
+with the offering or provision of a consumer financial product or 
+service to report the existence of those orders and related information 
+to a Bureau registry.
+    The Bureau is finalizing the rescission of the NBR Rule based on 
+concerns that the costs the rule imposes on regulated entities, which 
+may be passed on to consumers, are not justified by the speculative and 
+unquantified benefits to consumers discussed in the analysis proffered 
+in the NBR Rule. In addition, the Bureau is finalizing this rescission 
+based in part on the cost to the Bureau of maintaining the registration 
+system created by the NBR Rule, which the Bureau believes is not a 
+necessary tool to effectively monitor and reduce potential risks to 
+consumers.
+
+II. Background
+
+A. The NBR Rule
+
+    The Bureau published the NBR Rule in the Federal Register on July 
+8, 2024, and it took effect on September 16, 2024. The Bureau stated 
+that it was issuing the NBR Rule, as described below, because it 
+believed the statutory purposes of the Bureau's market monitoring and 
+nonbank supervision responsibilities would be furthered by the 
+collection and publication of information about the existence of 
+covered orders at covered nonbanks, and in the case of supervised 
+registered entities, steps taken to comply with those covered orders. 
+Specifically, it believed that the Bureau's establishment of a 
+centralized system for collecting and publishing information about 
+covered orders against covered nonbanks would lead to more efficient 
+and effective monitoring, detection, assessment, public awareness, and 
+mitigation of the risks posed to consumers by violations of Federal 
+consumer financial law, including repeat violations. The NBR Rule 
+generally found that such outcomes, if achieved, would be beneficial to 
+consumers.
+    Underlying the purported utility of the NBR Rule was the Bureau's 
+repeated assertion that the registry established by the rule would help 
+to address risks to consumers related to corporate recidivism engaged 
+in by covered nonbanks. For example, the Bureau stated that the NBR 
+Rule would ``focus on monitoring for risks to consumers related to 
+repeat offenders of consumer protection law'' and that a public 
+registry ``will help the Bureau and the broader public monitor trends 
+concerning corporate recidivism relating to consumer protection law, 
+including areas where prior violations of law are indicia of risks to 
+consumers.'' \1\ In addition, the Bureau stated that the registry 
+``will provide a valuable mechanism to help ensure the Bureau is 
+rapidly made aware of . . . repeat offenders across a range of markets 
+and enforcement agencies.'' \2\ According to the Bureau's analysis, 
+``repeat law violator status . . . is a highly pertinent 
+characteristic'' of nonbank covered persons,\3\ to the extent that the 
+Bureau intended to ``mitigate recidivism and more effectively deter 
+unlawful behavior'' by creating a public registry.\4\ Thus, while 
+maintaining that ``the registry will accomplish a number of goals,'' 
+the Bureau emphasized that it would have ``a particular focus on 
+monitoring for risks to consumers related to repeat offenders of 
+consumer protection law.'' \5\
+---------------------------------------------------------------------------
+
+    \1\ 89 FR 56028 at 56029-30.
+    \2\ Id. at 56035; see also id. at 56031 (stating the Bureau's 
+belief that monitoring for covered orders ``will allow the Bureau to 
+track specific instances of, and more general developments 
+regarding, potential corporate recidivism'').
+    \3\ Id. at 56036.
+    \4\ Id. at 56042.
+    \5\ Id. at 56062.
+---------------------------------------------------------------------------
+
+    The NBR Rule imposes information collection requirements on most 
+nonbank covered persons to the extent they are subject to certain 
+public agency and court orders, including orders under numerous 
+different provisions in Federal and State law (``covered orders'').\6\ 
+Specifically, the NBR Rule contains three sets of provisions: (1) a 
+covered order registration requirement for virtually all nonbanks 
+engaged in the offering or providing of any consumer financial product 
+or service (``covered nonbanks''); \7\ (2) an annual covered
+
+[[Page 48761]]
+
+order compliance reporting requirement for Bureau-supervised registered 
+entities; and (3) provisions authorizing the Bureau to publish certain 
+information collected pursuant to the registration requirement.\8\ 
+Below, this final rule provides general background on key aspects of 
+each of these sets of provisions.\9\
+---------------------------------------------------------------------------
+
+    \6\ In Sec.  1092.201(e), the NBR Rule defines a ``covered 
+order'' as an order that, among other things, has an effective date 
+on or after January 1, 2017, and imposes certain obligations on the 
+covered nonbank based on an alleged violation of a covered law. In 
+Sec.  1092.201(c), the regulation defines ``covered law'' as 
+including Federal consumer financial law as well as a number of 
+other laws enforced by the Bureau, the prohibition against unfair or 
+deceptive acts or practices in section 5 of the Federal Trade 
+Commission Act and its implementing rules enforced by other Federal 
+agencies, and certain State laws as described in Sec.  
+1092.202(c)(4)-(6), including several hundred of which are specified 
+in appendix A to part 1092.
+    \7\ In Sec.  1092.201(d), the NBR Rule defines ``covered 
+nonbank'' as including most types of nonbanks, with specified 
+exceptions for insured depository institutions, insured credit 
+unions, a person who is a covered person solely due to being a 
+related person, a State, a natural person, certain motor vehicle 
+dealers, and persons subject to certain exclusions in CFPA section 
+1027.
+    \8\ Covered nonbanks also must submit required information in 
+accordance with the Bureau's filing instructions. See Sec.  
+1090.102(a); CFPB Nonbank Registration Filing Instructions Guide 
+(FIG) (Jan. 2025), https://files.consumerfinance.gov/f/documents/cfpb_nonbank-registration_filing-instructions-guide.pdf.
+    \9\ The NBR Rule also contains provisions pursuant to which 
+persons may submit filings to the Bureau's nonbank registry stating 
+that they have a good-faith basis to believe that the NBR Rule or 
+one or more of its provisions does not apply. See Sec.  1092.202(g) 
+& 204(f). These are not mandatory information collection 
+requirements and are not discussed further here.
+---------------------------------------------------------------------------
+
+    First, the NBR Rule generally requires registration by covered 
+nonbanks that are subject to covered orders that are in effect as of 
+September 16, 2024, or that take effect on that date or at any later 
+time. The NBR Rule requires these covered nonbanks to register with the 
+Bureau and to submit certain information about each covered order to 
+the Bureau.\10\ Under Sec.  1092.202(b), each covered nonbank must 
+submit identifying information and administrative information as 
+described in Sec.  1092.202(c),\11\ as well as information regarding 
+each covered order described in Sec.  1092.202(d) as follows:
+---------------------------------------------------------------------------
+
+    \10\ Registration is required within 90 days after the 
+applicable nonbank registry implementation date, or 90 days after 
+the effective date of the covered order, whichever is later. See 
+Sec.  1092.202(b)(2). The implementation dates are October 16, 2024, 
+for supervised registrants that are larger participants under CFPB 
+larger participant rules (resulting in a registration deadline of 
+January 14, 2025), January 14, 2025, for all other supervised 
+registrants (resulting in a registration deadline of April 14, 
+2025), and April 14, 2025, for all other covered nonbanks (resulting 
+in a registration deadline of July 14, 2025). See https://www.consumerfinance.gov/data-research/nbr-submission/.
+    \11\ In Sec.  1092.201(a), the NBR Rule defines ``administrative 
+information'' as ``contact information'' regarding the registrant 
+and ``other information submitted or collected to facilitate 
+administration'' of the nonbank registry. In Sec.  1092.201(g), the 
+NBR Rule defines ``identifying information'' as ``existing 
+information available to the covered nonbank that uniquely 
+identifies it,'' including certain information further specified in 
+the definition.
+
+    (1) A fully executed, accurate, and complete copy of the covered 
+order, in a format specified by the Bureau; provided that any 
+portions of a covered order that are not public shall not be 
+submitted, and these portions shall be clearly marked on the copy 
+submitted;
+    (2) In connection with each applicable covered order, 
+information identifying:
+    (i) The agency(ies) and court(s) that issued or obtained the 
+covered order, as applicable;
+    (ii) The effective date of the covered order;
+    (iii) The date of expiration, if any, of the covered order, or a 
+statement that there is none;
+    (iv) All covered laws found to have been violated or, for orders 
+issued upon the parties' consent, alleged to have been violated; and
+    (v) Any docket, case, tracking, or other similar identifying 
+number(s) assigned to the covered order by the applicable 
+agency(ies) or court(s).\12\
+---------------------------------------------------------------------------
+
+    \12\ At the time of registration of a covered order, supervised 
+registered entities also must provide additional information, as 
+described in Sec.  1092.202(d)(3) (requiring the name and title of 
+an ``attesting executive'' for purposes of annual reporting on 
+covered order compliance as described further below).
+
+The NBR Rule also requires registrants to submit certain updated 
+information to the Bureau regarding the status of the covered order on 
+an ongoing basis.\13\
+---------------------------------------------------------------------------
+
+    \13\ For example, registered entities must submit a filing to 
+the nonbank registry within 90 days after the effective date of a 
+termination, modification, or abrogation of the covered order, or 
+its ceasing to be a covered order. See Sec.  1092.202(f).
+---------------------------------------------------------------------------
+
+    Alternatively, for covered orders that are not obtained or issued 
+by the Bureau and that are published on the NMLS Consumer Access 
+website at www.NMLS.ConsumerAccess.org,\14\ the covered nonbank may 
+satisfy the registration requirement by submitting more limited 
+information for the purposes of identifying the covered nonbank and the 
+NMLS-published covered order as described in Sec.  1092.203(b) and as 
+specified in filing instructions provided by the Bureau.\15\ Under this 
+alternative, there is no requirement to provide updates on an ongoing 
+basis.
+---------------------------------------------------------------------------
+
+    \14\ See definition of ``NMLS-published covered order'' at Sec.  
+1092.201(k).
+    \15\ Currently, the filing instructions require registrants that 
+register a NMLS-published covered order via optional one-time 
+registration to provide the order's effective date, identifying 
+number (e.g., docket or similar tracking number), and, if 
+applicable, an explanation of any differences between information 
+entered for the order and the information about the order that is 
+published on the NMLS Consumer Access website.
+---------------------------------------------------------------------------
+
+    In addition to the information collection requirements for 
+registration of a covered nonbank described above, the NBR Rule 
+includes certain related provisions and additional information 
+requirements, such as a requirement to provide corrected 
+information.\16\
+---------------------------------------------------------------------------
+
+    \16\ Certain additional requirements and definitions apply to 
+the registration requirement, as elaborated in Sec. Sec.  1092.200-
+203 & 205 and supplemented by subpart A of part 1092. For example, 
+registered entities must file corrections within 30 days after 
+becoming aware or having reason to know of an inaccuracy in their 
+prior submissions. See Sec.  1092.205(c).
+---------------------------------------------------------------------------
+
+    Second, in Sec.  1092.204, the NBR Rule imposes certain additional 
+annual reporting requirements for covered nonbanks that are Bureau-
+supervised registered entities, as defined in Sec.  1092.201(q) 
+(excluding, among others, entities with less than $5 million in annual 
+receipts from offering or providing consumer financial products or 
+services). These annual reporting requirements apply to covered orders 
+that are not registered as NMLS-published covered orders and that have 
+an effective date on or after applicable nonbank registry 
+implementation dates under Sec.  1092.206.\17\ As elaborated in Sec.  
+1092.204, among other things, the NBR Rule requires the supervised 
+registered entity to designate an attesting executive for the covered 
+order (Sec.  1092.204(b)), to provide the attesting executive with 
+access to certain documents and information (Sec.  1092.204(c)), and to 
+submit a written statement to the Bureau on an annual basis that 
+includes the information described in Sec.  1092.204(d)--namely, a 
+description of the steps the attesting executive has undertaken to 
+review and oversee the supervised registered entity's activities 
+subject to the applicable covered order for the preceding calendar year 
+and an attestation as to whether, to the attesting executive's 
+knowledge, the supervised registered entity during the preceding 
+calendar year identified any violations or other instances of 
+noncompliance with any obligations imposed in a public provision of the 
+covered order based on a violation of a covered law--and is signed by 
+the attesting executive.\18\
+---------------------------------------------------------------------------
+
+    \17\ The implementation dates for supervised registrants subject 
+to the annual reporting requirement are October 16, 2024, for 
+supervised registrants that are larger participants under CFPB 
+larger participant rules, and January 14, 2025, for all other 
+supervised registrants. See https://www.consumerfinance.gov/data-research/nbr-submission/.
+    \18\ Certain additional requirements and definitions apply to 
+the written statement requirement, as elaborated in Sec. Sec.  
+1092.200 & 204 and supplemented by subpart A of part 1092.
+---------------------------------------------------------------------------
+
+    In connection with the NBR Rule, the Bureau provided certain 
+estimates of the paperwork burdens of the above two information 
+collection requirements. For the initial registration of a single order 
+and the first annual report on that order by a supervised registered 
+entity, the Bureau estimated 35 hours of paperwork burden (5 hours for 
+the initial registration and 30 hours for the annual report including 
+recordkeeping costs). It further estimated an overall paperwork burden 
+on covered nonbanks from these two steps alone as in excess of 271,000 
+hours.\19\ In dollar terms, the
+
+[[Page 48762]]
+
+NBR Rule estimated that between 1,550 and 7,752 covered nonbanks would 
+incur a labor cost of $350 each for an initial registration of an order 
+and $2,100 for a supervised registered entity to comply with an annual 
+cycle of reporting for an order.\20\ Of course, to the extent any 
+covered nonbank did in fact have multiple covered orders, its burden 
+would be higher, and the burden of correction and updates also is not 
+included in these estimates. In addition, while these estimates only 
+accounted for a single cycle of an annual report, the NBR Rule requires 
+annual reporting for at least 10 years.\21\ In any event, the NBR Rule 
+acknowledges that the information collection requirements and other 
+impacts led to the designation of the rule as a ``major rule'' under 
+the Congressional Review Act.\22\
+---------------------------------------------------------------------------
+
+    \19\ See OIRA ICR Ref. No. 202407-3170-001 and Supporting 
+Statement, https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202407-3170-001.
+    \20\ 89 FR 56028 at 56137, 56148.
+    \21\ Sec.  1092.202(e).
+    \22\ Based on the impacts of the NBR Rule (including its 
+information collection requirements discussed above and its 
+publication provisions described further below), the Office of 
+Information and Regulatory Affairs designated the NBR Rule as a 
+``major rule'' as defined by 5 U.S.C. 804(2). 89 FR 56028 at 56150.
+---------------------------------------------------------------------------
+
+    Third, in Sec.  1092.205(a), the NBR Rule authorizes the Bureau to 
+make available to the public on its internet website information, other 
+than administrative information, that covered nonbanks submit to the 
+nonbank registry pursuant to the registration requirement described 
+above. Under Sec.  1092.205(b), the NBR Rule also authorizes the Bureau 
+to publish aggregate information collected pursuant to the registration 
+requirement as well as the annual reporting requirement described 
+above.\23\ While neither provision requires publication by the Bureau, 
+the NBR Rule stated that ``[t]he Bureau intends to publish this 
+information on its website and potentially in other forms.'' \24\ It 
+also stated that the Bureau was ``reserving the option not to publish 
+information based on operational considerations, such as resource 
+constraints.'' \25\
+---------------------------------------------------------------------------
+
+    \23\ Certain additional requirements and definitions apply to 
+the publication provisions, as elaborated in Sec.  1092.200 and 
+supplemented by subpart A of part 1092.
+    \24\ 89 FR 56028; see also id. at 56031 (describing how the 
+Bureau may publish the identity of the attesting executive).
+    \25\ Id. at 56041.
+---------------------------------------------------------------------------
+
+    In its statement submitted to the Office of Management and Budget 
+to support the collection of information established by the NBR Rule, 
+the Bureau estimated that the annual costs to the Federal government to 
+operate the registry would amount to ``$2.5 million for external vendor 
+support and 10,400 hours of Federal staff time.'' \26\ Of this amount, 
+the Bureau explained that approximately $1,900,000 would be needed 
+``for developer support to operate and maintain the data collection 
+system'' and $600,000 would be needed ``for an online user support 
+function (including technical writing support for user help 
+articles).'' \27\ In addition, the Bureau estimated that it would need 
+five full-time employees to support the registry, including by 
+``responding to respondents' substantive questions regarding rule 
+compliance, data intake and quality control, managing technical system 
+updates for mission critical needs, and overseeing external vendor 
+work.'' \28\
+---------------------------------------------------------------------------
+
+    \26\ Supporting Statement for Registry of Nonbank Covered 
+Persons Subject to Certain Agency and Court Orders, OMB Control 
+Number: 3170-0076 (July 9, 2024), at 10, https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202407-3170-001.
+    \27\ Id.
+    \28\ Id.
+---------------------------------------------------------------------------
+
+B. The Proposal To Rescind the NBR Rule
+
+    On May 14, 2025, the Bureau published a proposal to rescind the NBR 
+Rule (``Proposed Rescission Rule'').\29\ The Bureau stated it was 
+proposing to rescind the NBR Rule ``based upon concern that the costs 
+the rule imposes on regulated entities, and which may in large part be 
+passed on to consumers, are not justified by the speculative and 
+unquantified benefits to consumers discussed in the analysis proffered 
+in the NBR Rule.'' \30\ It described the costs imposed on regulated 
+entities as a ``significant regulatory burden'' that was highlighted 
+not only by industry comments, but also by the Small Business 
+Administration's Office of Advocacy and the Conference of State Bank 
+Supervisors.
+---------------------------------------------------------------------------
+
+    \29\ 90 FR 20406 (May 14, 2025).
+    \30\ Id. at 20407.
+---------------------------------------------------------------------------
+
+    The Proposed Rescission Rule also stated the Bureau's belief that 
+the NBR Rule is not a necessary tool for monitoring and reducing risks 
+to consumers from bad actors. It further noted the role that multiple 
+other Federal and State agencies play in the enforcement of Federal 
+consumer financial laws.\31\
+---------------------------------------------------------------------------
+
+    \31\ Meanwhile, as it was considering the Proposed Rescission 
+Rule, the Bureau also announced on April 11, 2025, that ``it will 
+not prioritize enforcement or supervision actions with regard to 
+entities that do not satisfy future deadlines under'' the NBR Rule. 
+CFPB Offers Regulatory Relief from Registration Requirements for 
+Small Loan Providers (Apr. 11, 2025), https://www.consumerfinance.gov/about-us/newsroom/cfpb-offers-regulatory-relief-from-registration-requirements-for-small-loan-providers/.
+---------------------------------------------------------------------------
+
+III. Consultation
+
+    In developing this final rule, the Bureau consulted with the Board 
+of Governors of the Federal Reserve System, the Federal Deposit 
+Insurance Corporation (FDIC), the Office of the Comptroller of the 
+Currency (OCC), the National Credit Union Administration (NCUA), the 
+Federal Trade Commission (FTC), and the Farm Credit Administration 
+(FCA) on, among other things, consistency with any prudential, market, 
+or systemic objectives administered by such agencies.\32\ The Bureau 
+also consulted with State agencies, including State agencies involved 
+in supervision of nonbanks and State agencies charged with law 
+enforcement, as well as with Tribal governments.\33\
+---------------------------------------------------------------------------
+
+    \32\ See 12 U.S.C. 5512(b)(2)(B).
+    \33\ See 12 U.S.C. 5512(c)(7)(C), 5514(b)(7)(D); see also 12 
+U.S.C. 5481(27) (defining the term ``State'' as including ``any 
+federally recognized Indian tribe, as defined by the Secretary of 
+the Interior under'' 25 U.S.C. 5131(a)).
+---------------------------------------------------------------------------
+
+IV. Legal Authority
+
+    The Bureau relied on its authority under the CFPA when it 
+voluntarily promulgated the NBR Rule. In light of its decision to 
+rescind the NBR Rule, the Bureau is issuing this final rule to revoke 
+the NBR Rule pursuant to that authority.
+    CFPA section 1022(b)(1) authorizes the Bureau to prescribe rules 
+``as may be necessary or appropriate to enable the Bureau to administer 
+and carry out the purposes and objectives of the Federal consumer 
+financial laws, and to prevent evasions thereof.'' \34\ CFPA section 
+1022(b)(2) prescribes certain standards for rulemaking that the Bureau 
+must follow in exercising its authority under section 1022(b)(1); these 
+standards are discussed in part XI below.
+---------------------------------------------------------------------------
+
+    \34\ 12 U.S.C. 5512(b)(1).
+---------------------------------------------------------------------------
+
+    The Bureau relied in part on CFPA section 1022(c)(1)-(4) and 
+1022(c)(7) to collect information and authorize publication of certain 
+information collected under the NBR Rule. CFPA section 1022(c)(1)-(4) 
+authorize the Bureau to prescribe rules to collect information from 
+covered persons for the purposes of monitoring for risks to consumers 
+in the offering or provision of consumer financial products or 
+services, and to publicly release information obtained pursuant to CFPA 
+section 1022, subject to specified limitations.\35\ CFPA section 
+1022(c)(7)(A) authorizes the Bureau to ``prescribe rules regarding 
+registration requirements applicable to a covered person, other than an 
+insured depository institution, insured credit
+
+[[Page 48763]]
+
+union, or related person.'' \36\ CFPA section 1022(c)(7)(B) provides 
+that, ``[s]ubject to rules prescribed by the Bureau, the Bureau may 
+publicly disclose registration information to facilitate the ability of 
+consumers to identify covered persons that are registered with the 
+Bureau.'' \37\
+---------------------------------------------------------------------------
+
+    \35\ 12 U.S.C. 5512(c)(1)-(4).
+    \36\ 12 U.S.C. 5512(c)(7)(A).
+    \37\ 12 U.S.C. 5512(c)(7)(B).
+---------------------------------------------------------------------------
+
+    Section 1024(b) of the CFPA authorizes the Bureau to exercise 
+supervisory authority over certain nonbank covered persons as defined 
+in CFPA section 1024(a)(1).\38\ Section 1024(b)(1) requires the Bureau 
+to periodically require reports and conduct examinations of persons 
+subject to its supervisory authority to assess compliance with Federal 
+consumer financial law, obtain information about the activities and 
+compliance systems or procedures of persons subject to its supervisory 
+authority, and detect and assess risks to consumers and to markets for 
+consumer financial products and services.\39\ Section 1024(b)(2) 
+requires that the Bureau exercise its supervisory authority over 
+nonbank covered persons under section 1024(b)(1) based on its 
+assessment of risks posed to consumers in the relevant product markets 
+and geographic markets, and taking into consideration, as applicable: 
+``(A) the asset size of the covered person; (B) the volume of 
+transactions involving consumer financial products or services in which 
+the covered person engages; (C) the risks to consumers created by the 
+provision of such consumer financial products or services; (D) the 
+extent to which such institutions are subject to oversight by State 
+authorities for consumer protection; and (E) any other factors that the 
+Bureau determines to be relevant to a class of covered persons.'' \40\
+---------------------------------------------------------------------------
+
+    \38\ 12 U.S.C. 5514.
+    \39\ 12 U.S.C. 5514(b)(1).
+    \40\ 12 U.S.C. 5514(b)(2).
+---------------------------------------------------------------------------
+
+    Section 1024(b)(7) of the CFPA identifies three independent sources 
+of Bureau rulemaking authority, on which the Bureau relied in 
+promulgating the NBR Rule. First, section 1024(b)(7)(A) requires the 
+Bureau to prescribe rules to facilitate the supervision of nonbank 
+covered persons subject to the Bureau's supervisory authority and 
+assessment and detection of risks to consumers.\41\ Second, section 
+1024(b)(7)(B) authorizes the Bureau to require nonbank covered persons 
+subject to its supervisory authority to ``generate, provide, or retain 
+records for the purposes of facilitating supervision of such persons 
+and assessing and detecting risks to consumers.'' \42\ Third, section 
+1024(b)(7)(C) authorizes the Bureau to prescribe rules regarding 
+nonbank covered persons subject to its supervisory authority ``to 
+ensure that such persons are legitimate entities and are able to 
+perform their obligations to consumers.'' \43\
+---------------------------------------------------------------------------
+
+    \41\ 12 U.S.C. 5514(b)(7)(A).
+    \42\ 12 U.S.C. 5514(b)(7)(B).
+    \43\ 12 U.S.C. 5514(b)(7)(C).
+---------------------------------------------------------------------------
+
+V. General Comments on the Proposed Rescission Rule
+
+A. General Comments Received on the Proposed Rescission Rule
+
+    The Bureau received a total of 16 comments on the Proposed 
+Rescission Rule, including 7 comments from 9 industry associations, a 
+comment from the SBA Office of Advocacy, a comment from an association 
+representing State financial regulators, 2 comments from nonprofit 
+consumer advocacy organizations, and 5 comments from individuals. 
+Comments pertaining to specific requirements or provisions of the NBR 
+Rule and to the NBR Rule's impacts are discussed in sections VI, VII, 
+VIII, X, and XI below.
+    Comments from the SBA Office of Advocacy, the State financial 
+regulator association, most industry associations, and some individuals 
+expressly supported rescission of the entire NBR Rule. As described 
+below, many of these comments asserted that the NBR Rule's registration 
+requirements for covered nonbanks subject to covered orders and 
+written-statement requirements for supervised registered entities were 
+duplicative, unnecessary, or significantly burdensome. They also 
+expressed similar views of the NBR Rule's authorization for the Bureau 
+to publish certain registration information. An individual commenter 
+expressed support for the proposed rescission but suggested that the 
+Bureau replace the NBR Rule with a rule mandating registration of 
+nonbanks with the Bureau's complaint portal.
+    The two nonprofit organizations and an individual commenter opposed 
+the Proposed Rescission Rule. One of the nonprofits stated that 
+nonbanks now provide a substantial share of consumer financial products 
+and services and pose heightened risks, including to consumers they 
+described as vulnerable to harm. According to this commenter, the NBR 
+Rule promotes transparency and enhances competition and consumer 
+choice, while rescission would limit regulatory oversight and result in 
+financial and informational costs to consumers. The other nonprofit 
+stated that the NBR Rule's registry will help regulators, consumer 
+advocates, and the public more broadly to identify repeat offenders and 
+patterns of misconduct, and that rescinding the rule would conceal 
+recidivism, which would grow as a result.
+    With respect to the NBR Rule's scope, a joint comment from banking 
+industry trade groups discussed those groups' previously raised 
+objections to the NBR Rule's inclusion of nonbank affiliates of insured 
+depository institutions and insured credit unions and to the rule's 
+written-statement requirements. A credit union trade association 
+objected to the rule's coverage of credit union service organizations 
+(CUSOs) and privately insured credit unions, stating that these 
+organizations have been effectively regulated by State credit union 
+authorities and the National Credit Union Administration, respectively. 
+Another industry association asserted that the NBR Rule's application 
+to consent orders that were entered into prior to the rule's 
+promulgation imposes unfair burdens on entities that agreed to such 
+orders without knowing of potential exposure to penalties for failing 
+to comply with the registration requirements, that doing so would 
+expose them to the written-statement requirements (including potential 
+penalties for failure to comply or submitting a false attestation), and 
+the reputational impact of publication.
+    Some industry commenters questioned the Bureau's legal authority to 
+issue the NBR Rule and whether the NBR Rule is consistent with 
+provisions of the CFPA. Others suggested the NBR Rule intrudes on State 
+supervisory and enforcement authority. In contrast, a nonprofit 
+commenter stated that the NBR Rule was an appropriate use of the 
+Bureau's legal authority.
+
+A. Response to General Comments
+
+    The Bureau agrees with commenters who supported rescission of the 
+NBR Rule because its various features are duplicative, unnecessary, or 
+significantly burdensome. As stated in the Proposed Rescission Rule, 
+and as explained in the analysis below, the Bureau does not believe the 
+speculative and unquantified benefits to consumers and the public that 
+were proffered in the NBR Rule justify the costs the rule imposes on 
+regulated entities.\44\
+---------------------------------------------------------------------------
+
+    \44\ The Bureau notes that concerns raised by commenters with 
+respect to particular applications of the NBR Rule or questioning 
+the legal authority underlying aspects of the NBR Rule are fully 
+addressed by rescission, and no further response is needed.
+---------------------------------------------------------------------------
+
+    The Bureau disagrees with commenters who opposed rescission of the 
+NBR Rule on the basis of its
+
+[[Page 48764]]
+
+supposed value to consumers and the public. Commenters provided no 
+quantifiable support for the claim that the NBR Rule promotes or 
+enhances transparency, competition, and consumer choice. As discussed 
+below, any such benefits are speculative and likely minimal, as the 
+rule concerns orders that are already publicly available and, as the 
+Bureau acknowledged in the NBR Rule, consumers are unlikely to use the 
+registry as a comparison-shopping tool. With respect to commenters who 
+stated that rescission of the NBR Rule would result in a concealment of 
+recidivism and thus cause recidivism to increase, recidivism is not 
+hidden from enforcement agencies or the public because the orders that 
+are required to be registered under the NBR Rule are already public. 
+The Bureau further notes that no commenters responded to the Proposed 
+Rescission Rule's request for ``non-speculative and methodologically 
+rigorous analysis of the purported benefits and costs that were 
+identified when the [NBR Rule] was promulgated,'' \45\ including 
+analysis to support the view that recidivism is a significant problem 
+or that the registry created by the NBR Rule would address it, or that 
+rescission would limit regulatory oversight and result in financial and 
+informational costs to consumers.
+---------------------------------------------------------------------------
+
+    \45\ 90 FR 20406 at 20407.
+---------------------------------------------------------------------------
+
+B. Final Rule
+
+    For reasons explained above and below, the Bureau is finalizing its 
+rescission of the NBR Rule, 12 CFR 1092, as proposed. As stated in the 
+proposal, the Bureau is concerned that the costs the NBR Rule imposes 
+on regulated entities, and that may be passed on to consumers, are not 
+justified by the speculative and unquantified benefits to consumers 
+discussed in the NBR Rule's analysis. Despite specifically seeking 
+input from commenters pertaining to non-speculative and 
+methodologically rigorous analysis of the NBR Rule's purported 
+benefits, the Bureau received none. Accordingly, and because the Bureau 
+concludes that the NBR Rule is not necessary as a tool to effectively 
+monitor and reduce potential risks to consumers from bad actors, the 
+Bureau is finalizing the rescission in its entirety.
+    Below, the Bureau analyzes the three key components of the NBR Rule 
+codified at 12 CFR 1092.202-205, and the reasons for this rescission. 
+Because the Bureau is finalizing rescission of all key components of 
+the NBR Rule, it likewise is finalizing rescission of subpart A of 
+Sec.  1092, Sec. Sec.  1092.200-201 and 206 of subpart B, and appendix 
+A to Sec.  1092, which are rendered inapplicable.\46\
+---------------------------------------------------------------------------
+
+    \46\ Subpart A of Sec.  1092 contains general provisions 
+relating to legal authority, general definitions, submission and use 
+of registration information, and severability that apply generally 
+to the Bureau's nonbank registration program. Sections 1092.200-201 
+and 206 of subpart B contain provisions relating to the scope and 
+purpose, definitions, and phased implementation dates specific to 
+the NBR Rule. Appendix A to Sec.  1092 contains a list of State laws 
+that fall under the definition of ``covered law'' in Sec.  
+1092.201(c).
+---------------------------------------------------------------------------
+
+VI. Rescission of Registration Requirements
+
+A. Comments Received
+
+    Multiple commenters supported the proposed rescission of the NBR 
+Rule's registration requirements because, in their view, these 
+requirements are unnecessary for several reasons.
+    One industry association stated that the NBR Rule's estimate of the 
+number of covered nonbanks with covered orders lacked a foundation, 
+thereby undermining the premise that there is a recidivism problem to 
+solve, and further stated that requiring registration of an order by a 
+company with one offense does not address recidivism. The same 
+commenter further observed that, in its view, the NBR Rule does not 
+actually address recidivism because orders that involve no admission or 
+denial of liability often do not reflect wrongdoing or address actual 
+harm, such that there is no ``offense'' to repeat. A mortgage industry 
+association stated that, while it agreed that deterring recidivism is 
+an important goal, it was unclear how the NBR Rule serves that goal by 
+simply centralizing information about orders that are already public. 
+Similarly, multiple industry commenters stated that existing 
+supervisory and enforcement mechanisms adequately monitor for repeat 
+offenders such that the Bureau's registry is not needed for this 
+purpose.
+    One of these commenters, a private insurer of State-chartered 
+credit unions, noted that the credit unions it insures are subject to 
+comprehensive supervision not only by their State regulators but also 
+by the commenter's risk monitoring and examination program, such that a 
+Federal registry would not enhance supervision but instead would divert 
+resources from member service and operational resilience. In addition, 
+several industry commenters and an individual commenter posited that 
+the registry is unnecessary as it is duplicative of the Nationwide 
+Multistate Licensing System & Registry (NMLS), as well as other 
+databases and public sources, such as State and Federal regulator 
+websites and legal and regulatory databases, which already collect 
+information pertaining to relevant orders.\47\ One of these commenters 
+suggested that the Bureau could gather data on its own instead of 
+creating a new reporting requirement, to the extent the Bureau views 
+consolidation of information as essential. As to whether a gap exists 
+between what is reported on NMLS and any other orders subject to 
+registration under the NBR Rule, one commenter stated that any such gap 
+appears to relate to the Bureau's own orders or to the lack of 
+reporting on some industry sectors in NMLS, and described the lack of 
+centralization of such information as a ``weak rationale'' for 
+maintaining the Bureau's registry. One industry commenter noted that 
+nonbanks are required to hold State licenses for which they apply 
+through NMLS, and that as part of the application process, companies 
+must submit an MU1 Form that requires disclosure of whether, in the 
+past ten years, any State or Federal regulatory agency found the entity 
+or a control affiliate to have been involved in a violation of a 
+financial services-related regulation or statute or entered an order 
+against the entity or a control affiliate in connection with a 
+financial services-related activity, among other items. These companies 
+also must provide an explanation and copy of any such order, and other 
+State regulators are notified of the action. An association 
+representing State financial regulators stated that the NBR Rule 
+creates a costly reporting, registration, and compliance regime that 
+warrants rescission in light of its duplicative nature. And an industry 
+commenter and an individual suggested that the covered order 
+registration requirements would negatively impact the incentive for 
+firms to enter into settlements and otherwise cooperate with 
+regulators.
+---------------------------------------------------------------------------
+
+    \47\ A mortgage industry association commented that this 
+duplication is not in keeping with the Bureau's obligation in CFPA 
+section 1024(b)(2)(D), 12 U.S.C. 5514(b)(2)(D), to require reports 
+from supervised nonbanks while taking into account ``the extent to 
+which such institutions are subject to oversight by State 
+authorities for consumer protection.''
+---------------------------------------------------------------------------
+
+    Two nonprofit consumer advocacy groups opposed the proposed 
+rescission of the registration requirements. These commenters stated 
+that NBR Rule registry centralizes public information regarding 
+violations related to Federal consumer financial law that is highly 
+decentralized, including across agency and court orders. In their view, 
+the registry uniquely centralizes
+
+[[Page 48765]]
+
+information, which addresses a nonbank recidivism problem by enhancing 
+the Bureau's risk-based prioritization of examinations and 
+investigations, as well as its ability to spot emerging risks early. 
+One of the commenters cited examples of repeat offenses against 
+military families and older adults by nonbank mortgage and reverse 
+mortgage lenders, respectively, and stated that a central repository of 
+public orders can reveal broader patterns and risks associated with 
+enforcement gaps in the financial marketplace.
+
+B. Response to Comments
+
+    The Bureau agrees with commenters who stated that the NBR Rule did 
+not establish the existence of a widespread problem of recidivism. The 
+Bureau did not study the issue, and when State regulators jointly 
+raised in commenting on the proposed registration rule that recidivism 
+was not a major problem that merited the development of a new Federal 
+registry, the Bureau simply responded that they had not proven that 
+recidivism was not a problem.\48\ Moreover, the Bureau agrees with 
+commenters that the registration requirements do not actually address 
+recidivism as they are overbroad in scope. The NBR Rule requires 
+covered nonbanks with even just one covered order to register with the 
+Bureau, largely belying the notion that the registry's focus is on 
+identifying trends related to recidivism. The rule also requires 
+registration of a wide range of orders for which nonbank liability is 
+not uniformly established, and the underlying violations can vary 
+drastically in degree of seriousness. This overbreadth and lack of 
+precision creates burdens that far exceed those presented by 
+alternative tools that the Bureau has for detecting and addressing any 
+recidivism. For example, the Bureau may conduct risk-based follow-up 
+examinations to assess compliance with orders that impose obligations 
+under Federal consumer financial law, as well as investigations of 
+credible allegations or indications of tangible consumer harm from 
+potential violations of such orders.
+---------------------------------------------------------------------------
+
+    \48\ 89 FR 56028 at 56062.
+---------------------------------------------------------------------------
+
+    Consequently, the Bureau disagrees with commenters who stated that 
+the centralization of public information resulting from the NBR Rule's 
+registration requirements addresses a recidivism problem among nonbanks 
+because, as discussed above, neither commenters nor the NBR Rule 
+presented evidence that such a problem exists, or if it does, that it 
+presents greater risks to consumers as compared to other issues that 
+fall under the Bureau's traditional focus on risk-based supervision or 
+enforcement activities. It bears noting that, although one of these 
+commenters identified examples of repeat offenses, it did so without 
+the aid of a centralized registry of public orders, which underscores 
+the availability of this information without the NBR Rule's imposed 
+collection requirements.
+    The Bureau agrees with commenters who stated that the registration 
+system created by the NBR Rule is largely duplicative of existing 
+reporting and data collection mechanisms, including NMLS. In fact, the 
+Bureau acknowledged as much in the NBR Rule in creating a one-time 
+registration option for NMLS-published covered orders (defined to 
+exclude orders that had been issued or obtained in whole or in part by 
+the Bureau) that excepted from the rule's full and ongoing registration 
+(and written-statement) requirements a substantial number of the orders 
+that it originally proposed to cover. Yet even with respect to that 
+option, it still required duplicative registration of information 
+pertaining to the order with the Bureau when that information had 
+already been filed with the NMLS.
+
+C. Final Rule
+
+    The Bureau is finalizing its rescission of the NBR Rule's 
+registration requirements at Sec. Sec.  1092.202 and 1092.203 as 
+proposed.
+    The NBR Rule's registration requirements were premised on a 
+purported need for the Bureau to track the prevalence of covered orders 
+issued against covered nonbanks, including for the purpose of 
+addressing risk to consumers that arises from recidivism. For example, 
+in its Background section in part II.A, the NBR Rule explained how 
+nonbank providers of consumer financial products and services generally 
+are subject to Federal consumer financial laws that the Bureau 
+enforces, including, among others, the CFPA prohibition against unfair, 
+deceptive, or abusive acts or practices (UDAAPs), which overlaps with 
+similar prohibitions enforced by other Federal and State regulators. 
+The NBR Rule then stated that the Bureau had brought nearly 350 
+enforcement actions against nonbanks since passage of the CFPA.
+    However, the NBR Rule provided no data on the prevalence of public 
+agency and court orders against covered nonbanks, and only vague, 
+limited information about the prevalence of recidivism.\49\ For 
+example, the NBR Rule did not state how many of the nearly 350 Bureau 
+enforcement actions had resulted in orders imposing obligations on 
+nonbanks for violation of Federal consumer financial law. Further, the 
+NBR Rule did not disclose or estimate how many such orders had been 
+violated. Instead, in the NBR Rule's single paragraph describing the 
+number of Bureau enforcement actions, the NBR Rule asserted that ``[o]n 
+numerous occasions'' the Bureau had ``uncovered companies that failed 
+to comply with consent orders that the companies entered into with the 
+Bureau voluntarily.'' \50\ However, as the only support for that claim, 
+the NBR Rule merely cited five Bureau enforcement actions against 
+nonbanks operating in certain markets for consumer financial products 
+and services and one against a bank.\51\ Similarly, while noting that 
+the Bureau highlights its supervisory work in a publication called 
+Supervisory Highlights, the NBR Rule did not quantify instances of 
+consent order violations published there.\52\ The NBR Rule 
+acknowledged, however, that the Bureau's existing supervisory processes 
+for follow-up examinations of entities subject to consent orders is 
+``designed to stop recidivist behavior.'' \53\
+---------------------------------------------------------------------------
+
+    \49\ While stating that it did not purport to define the term 
+``repeat offender,'' 89 FR 56028 at 56127 n.443, the NBR Rule 
+described ``[r]ecidivism'' as occurring ``in the form of a company 
+that repeatedly violates the law and as a result becomes subject to 
+multiple orders, or in the form of a company that violates the 
+orders to which it is subject.'' Id. at 56035.
+    \50\ Id. at 56028-29.
+    \51\ Id. at n.7.
+    \52\ Id. at n.35 & 56125.
+    \53\ Id. at 56030-31 (describing 2022 creation of ``Repeat 
+Offender Unit'' but not providing any data about the extent to which 
+it has identified recidivism in the many months prior to the 
+issuance of the NBR Rule).
+---------------------------------------------------------------------------
+
+    In addition, the NBR Rule did not provide any data about similar 
+orders issued by other Federal or State agencies. Based on the record, 
+including this limited data, the Bureau did not conclude that 
+recidivism by nonbank covered persons was widespread or that the risks 
+it poses are notably greater than other risks to an extent that would 
+justify the costs imposed by the NBR Rule. Indeed, in response to 
+comments received on the proposal for the NBR Rule questioning the 
+Bureau's stance that recidivism poses particular risks to consumers, 
+the Bureau stated its belief that ``adoption of the final rule is 
+appropriate even if recidivism among nonbanks currently presents only 
+limited risks to consumers,'' as ``even one covered order may be 
+probative of significant risk to consumers.'' \54\ But this statement 
+likewise failed to address whether it is appropriate to impose a
+
+[[Page 48766]]
+
+registration burden on entities in light of the speculative nature of 
+the benefits provided by access to information about orders that are 
+already publicly available. Even assuming arguendo that the existence 
+of a single order is probative of consumer risk, the Bureau is capable 
+of monitoring for this risk without a registry. At the same time, the 
+NBR Rule acknowledged that a joint comment letter from State regulators 
+``stated that States have not witnessed widespread issues with or a 
+growing trend of recidivism among nonbanks[.]'' \55\ And while the NBR 
+Rule noted that consumer advocate commenters stated that ``recidivism 
+by nonbanks did pose risks to consumers,'' it did not describe those 
+comments as indicating the prevalence or severity of recidivism.\56\
+---------------------------------------------------------------------------
+
+    \54\ 89 FR 56028 at 56062.
+    \55\ Id. at 56060. The NBR Rule also noted that consumer 
+advocate commenters stated that ``recidivism by nonbanks did pose 
+risks to consumers'' but did not describe those comments as 
+indicating the prevalence or severity of recidivism.
+    \56\ Id.
+---------------------------------------------------------------------------
+
+    The NBR Rule's lack of establishment of recidivism as a pressing 
+issue resulted in the rule's findings regarding the necessity and value 
+of its registration requirements being based on speculative and 
+unquantified benefits, which do not justify the costs the NBR Rule 
+imposes on regulated entities. As described in the background in part 
+II.A above, the Bureau repeatedly indicated that a primary goal of the 
+NBR Rule was to address risks to consumers associated with corporate 
+recidivism. However, the Bureau did not provide data to support or 
+justify the assertion that recidivism poses risks warranting the 
+registry it created.
+    Indeed, on its face, the notion that the types of recidivism 
+considered in the NBR Rule categorically pose risks to consumers that 
+warrants the creation of a registry of this kind is at best 
+questionable. For example, under the NBR Rule's broad concept of 
+recidivism,\57\ a company that allegedly violates any single provision 
+of Federal consumer financial law more than once and resolves that 
+allegation concurrently through orders with multiple regulators is 
+considered as posing registration-worthy recidivism-related risks, even 
+though the matter may not involve significant consumer harm or 
+``repeating'' of a previous offense at all. Or, a small entity that 
+settles matters related to disparate violations of minor, technical 
+provisions for small amounts in two or three states over a period of 
+years is deemed to pose risk to consumers warranting registration 
+despite seeming to pose no greater risk--and in fact seeming to pose 
+less risk--than an entity implicated in a single significant nationwide 
+action that impacted a large number of consumers. Or, a large entity 
+that agrees to a consent order to resolve a single significant matter 
+would be treated as posing registration-worthy recidivism-related risk, 
+even if it demonstrated order compliance and was not found to have 
+violated any other law again. In fact, such an entity may pose less 
+risk with respect to the conduct at issue than other entities whose 
+similar conduct has gone undetected or unresolved by order. The 
+Bureau's reasoning that imposing the NBR Rule's registration 
+requirements on covered nonbanks with respect to all covered orders is 
+the ``most effective and efficient mechanism for collecting this 
+information'' was thus based on the unsubstantiated premise that 
+recidivism or risks related to recidivism pose a pressing threat to 
+consumers, and did not adequately consider the availability of other 
+sources of information.\58\ Indeed, the Bureau acknowledged this lack 
+of an established basis when it stated in the NPRM for the NBR Rule 
+that the monitoring for covered orders that would result from the 
+registration requirements would allow the Bureau ``to track specific 
+instances of, and more general developments regarding, potential 
+corporate recidivism.'' \59\
+---------------------------------------------------------------------------
+
+    \57\ 89 FR 56028 at 56128 n.443 (describing repeat violations 
+with multiple orders, as well as violation of past orders, as 
+indicia of ``recidivism'').
+    \58\ Id. at 56101.
+    \59\ 88 FR 6088, 6092 (Jan. 30, 2023) (emphasis added).
+---------------------------------------------------------------------------
+
+    In addition, the Bureau is finalizing the rescission of the NBR 
+Rule's registration requirements because it concludes that these 
+requirements are not necessary to fulfill its market monitoring and 
+supervisory functions. The Bureau clearly can track its own orders and 
+can easily track any other Federal regulatory orders. With respect to 
+other orders, as noted above, in response to comments from State 
+regulators and industry criticizing the burdensome and duplicative 
+regime it had proposed, the Bureau in the NBR Rule finalized a system 
+providing a one-time registration alternative for NMLS-published 
+covered orders. The Bureau had not sought public comment on this 
+alternative approach, which it recognized remained nonetheless 
+duplicative to a large degree because the Bureau itself would use the 
+existing State registry system to obtain information for such 
+orders.\60\ The Bureau has access to the NMLS and can directly access 
+these orders without requiring those entities subject to them to submit 
+them to the Bureau. Yet the Bureau did not consider whether to simply 
+exclude NMLS-published orders entirely. Thus, the Bureau did not 
+establish why Bureau registration of entities with NMLS-published 
+covered orders was even necessary.
+---------------------------------------------------------------------------
+
+    \60\ 89 FR 56028 at 56088 (with regard to NMLS-published covered 
+orders, ``the Bureau can use any information available through the 
+NMLS to help inform its risk-based supervisory prioritization 
+determinations'').
+---------------------------------------------------------------------------
+
+    Relatedly, the NBR Rule's findings that registration is necessary 
+to effectively monitor for and reduce potential risks to consumers from 
+bad actors largely ignored the enforcement role played by multiple 
+Federal and State agencies that monitor for compliance with their own 
+orders, which contributes to an enforcement environment in which such 
+risks are already mitigated. This is no less true for Bureau-issued 
+orders, which the Bureau has long monitored for compliance without a 
+registry. Accordingly, the NBR Rule's findings that registration is 
+necessary to detect and assess risks to consumers and to facilitate 
+Bureau supervision likewise are infirm. Because the registry was 
+designed in large part to collect information regarding the Bureau's 
+own orders and other Federal regulatory orders, both of which the 
+Bureau can easily track, and information about NMLS-published covered 
+orders, to which the Bureau already has access, the Bureau does not 
+believe that the assumed benefits of the registry are justified in 
+light of its costs and burdens.
+    The Bureau also is finalizing its rescission of the NBR Rule's 
+registration requirements based on its conclusion that the rule's 
+speculative and unquantified benefits do not justify the cost to the 
+Bureau of maintaining the NBR system. As noted in section II above, the 
+Bureau estimated that the annual costs to the Federal government to 
+operate the registry would amount to ``$2.5 million for external vendor 
+support and 10,400 hours of Federal staff time.'' \61\ Consistent with 
+its statement in the proposal, the Bureau does not believe the NBR Rule 
+is a necessary tool to effectively monitor and reduce potential risks 
+to consumers. Subsequent developments, including Congress's reduction 
+of the Bureau's
+
+[[Page 48767]]
+
+statutory budget cap,\62\ underscore that the NBR Rule's costs are 
+unjustified. The Bureau already has access to information about public 
+orders as described above and already accounts for such information 
+when carrying out its objectives, including, as noted above, through is 
+risk-based supervisory prioritization, its examination process, its 
+enforcement process, and its market monitoring processes.
+---------------------------------------------------------------------------
+
+    \61\ Supporting Statement for Registry of Nonbank Covered 
+Persons Subject to Certain Agency and Court Orders, OMB Control 
+Number: 3170-0076 (July 9, 2024), at 10, https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202407-3170-001.
+    \62\ Public Law 119-21, sec. 30001, 139 Stat. 72, 126 (2025).
+---------------------------------------------------------------------------
+
+VII. Rescission of Written Statement Requirements
+
+A. Comments Received
+
+    Several commenters supported the proposed rescission of the NBR 
+Rule's written-statement requirements because, in their view, these 
+requirements are significantly burdensome and harmful.
+    One industry association commented that these requirements create 
+legal exposure for supervised nonbanks that diverts their resources 
+from productive uses. Multiple industry groups stated that the 
+requirements expose attesting executives to liability, thereby creating 
+a chilling effect that deters compliance professionals from serving in 
+compliance roles with supervised nonbanks. One of these commenters 
+expressed concern that the NBR Rule's policy of not publishing written 
+statements could change, or that the NBR system could experience a data 
+breach. Another stated that the requirement for executives to attest 
+regarding compliance conflicts with established corporate compliance 
+structures.
+    An industry association representing credit unions asserted that 
+the written-statement requirements create a long-term burden that 
+exceeds the burdens imposed by the orders themselves. An association 
+representing State financial regulators expressed concern about the 
+attestation requirement's application to State orders in particular, 
+which it stated amounted to an unlawful encroachment by the Bureau on 
+State authority.
+    On the other hand, both nonprofit commenters opposed rescission of 
+the written-statement requirements. One of these commenters stated that 
+the requirements help to prevent repeat issues by holding executive 
+leadership accountable for order compliance, thereby creating pressure 
+to take legal obligations seriously and driving cultural change in 
+companies.
+
+B. Response to Comments
+
+    The Bureau agrees with those commenters who noted that the written-
+statement requirements create legal exposure for supervised nonbanks 
+and exposure to potential liability for attesting executives. Even if 
+the Bureau were unlikely to pursue enforcement actions against 
+supervised nonbanks or attesting executives for a lack of adequate 
+compliance with these requirements, it is reasonable to expect that the 
+possibility of such actions would be sufficient to generate 
+apprehension among these entities and individuals. For example, in the 
+final NBR Rule itself, the Bureau highlighted how the ``potential for 
+criminal liability'' for false statements under 18 U.S.C. 1001 attached 
+to the required signature of the written statement, and how such a risk 
+would influence attesting executives.\63\ In turn, these effects could 
+hinder the ability of supervised nonbanks to recruit and retain 
+compliance professionals, which could result in an increase in risks to 
+consumers.
+---------------------------------------------------------------------------
+
+    \63\ 89 FR 56028 at 56114 (also noting how some commenters 
+called for the Bureau to ``unambiguously articulate . . . the 
+potential liability and intent standards''); see also id. at 56116 
+(noting how 18 U.S.C. 1001 ``provides incentives'' in regard to the 
+written statement requirement). In light of such potential liability 
+and how the NBR Rule did not provide the articulation commenters 
+requested, maintaining the NBR Rule may be incompatible with the 
+policy of the United States that ``[a]gencies promulgating 
+regulations potentially subject to criminal enforcement should 
+explicitly describe the conduct subject to criminal enforcement, the 
+authorizing statutes, and the mens rea standard applicable to those 
+offenses.'' E.O. 14294, ``Fighting Overcriminalization in Federal 
+Regulations'' (May 9, 2025), sec. 2(d), 90 FR 20363 (May 14, 2025). 
+See also Guidance on Referrals for Potential Criminal Enforcement, 
+90 FR 27530, 27531 (June 27, 2025) (Bureau policy statement 
+explaining that, ``when formulating the regulatory text of Bureau 
+NPRMs and final rules with criminal consequences that are published 
+in the Federal Register, the Bureau intends to explicitly state a 
+mens rea requirement for each element of a criminal regulatory 
+offense, accompanied by citations to the relevant provisions of the 
+authorizing statute.'').
+---------------------------------------------------------------------------
+
+    As noted above, the commenters that opposed rescission of the 
+written-statement requirements cited the requirements' supposed 
+beneficial effects with respect to reducing the likelihood of repeat 
+offenses by nonbanks subject to the requirements. As with other aspects 
+of the NBR Rule, this position is based on an unfounded premise that 
+recidivism is a sufficiently widespread problem that exposes consumers 
+to an amount of risk that warrants establishing the registry. As noted 
+elsewhere, neither commenters nor the NBR Rule presented evidence that 
+a recidivism problem exists, whether in consumer finance markets 
+generally or with respect to nonbanks operating in Bureau-supervised 
+markets, much less to an extent that would justify the costs imposed by 
+the NBR Rule. In any case, the government agencies that issue or obtain 
+orders can include obligations that executive leadership must satisfy, 
+and that may create liability for executive leadership in the event of 
+their noncompliance. As such, it is unclear how adding an attestation 
+requirement to such obligations would result in any material increase 
+in a firm's likelihood of taking its legal obligations seriously.
+
+C. Final Rule
+
+    The Bureau is finalizing its rescission of the NBR Rule's written-
+statement requirements at Sec.  1092.204 as proposed.
+    As was the case with other key components of the NBR Rule, the 
+Bureau's findings regarding the necessity and value of the rule's 
+written-statement requirements were based on speculative and 
+unquantified benefits that do not justify the costs the NBR Rule 
+imposes on regulated entities. Undergirding these findings was the 
+unfounded belief that these requirements would help to address and 
+prevent recidivism, which the Bureau did not establish posed risks to 
+consumers to a degree that warranted the requirements' adoption.
+    The NBR Rule concluded that ``the requirements imposed by the final 
+rule's written-statement requirements will impose only modest costs on 
+entities beyond the costs entities are already incurring to ensure 
+compliance with covered orders,'' \64\ and implied that attesting 
+executives would be reluctant to serve in such capacities only at 
+supervised nonbanks that lack adequate compliance systems or do not 
+endeavor in good faith to comply with orders.\65\ However, this 
+analysis did not adequately consider the possibility that compliance 
+professionals may not be able to easily discern how scrupulous an 
+entity is before taking on such a role, that some compliance 
+professionals may not be willing to risk their reputations or expose 
+themselves to liability even in exchange for a salary premium, why a 
+registry is needed at all if so many firms are already complying with 
+their orders in good faith, or the effect that prior similar 
+requirements (e.g., certifications of accuracy of financial reports 
+required under the Sarbanes-Oxley Act of 2002) \66\ may have had on 
+recruitment. Furthermore, the Bureau's statements that written 
+attestations would facilitate its supervision efforts, including by 
+detecting and assessing risks to consumers, are difficult to reconcile 
+with its own acknowledgment that most
+
+[[Page 48768]]
+
+firms endeavor in good faith to comply with covered orders. These 
+analytical shortcomings counsel strongly in favor of rescinding the 
+written-statement requirements.
+---------------------------------------------------------------------------
+
+    \64\ 89 FR 56028 at 56111.
+    \65\ Id. at 56148.
+    \66\ Public Law 107-204, 116 Stat. 745 (2002).
+---------------------------------------------------------------------------
+
+    Moreover, the Bureau believes that, as a policy matter, the 
+imposition of the written-statement requirements amounted to regulatory 
+overreach. Supervised nonbanks already are subject to monitoring of 
+compliance with orders by the State or Federal regulator that is 
+charged with such action by the corresponding legislature. In fact, 
+when a joint letter by State regulators objected to the written-
+statement requirements, arguing that they would frustrate and interfere 
+with existing monitoring regimes, the Bureau excepted entities with 
+State-issued covered orders published on NMLS from the written-
+statement requirements, and acknowledged that it could obtain 
+information through memoranda of understanding and other means related 
+to such entities' compliance. Yet the Bureau did not explain why, when 
+other Federal regulators' orders similarly are readily available on 
+their websites and the Bureau has information sharing agreements with 
+those regulators, it could not take the same approach with them to 
+prevent interfering with or frustrating their compliance monitoring. 
+Indeed, in its supervisory and enforcement functions, the Bureau has 
+long coordinated its work with other Federal regulators regarding their 
+monitoring of orders they have imposed on supervised nonbanks related 
+to Federal consumer financial law compliance. By requiring the 
+submission of these written statements to the Bureau, where the Bureau 
+itself has taken no action against the entity, the Bureau overstepped 
+its regulatory role by imposing a monitoring tool on firms that are 
+already subject to the applicable compliance regime enforced by their 
+regulators. The Bureau has no interest in usurping the authority of 
+other regulators in this manner.
+
+VIII. Rescission of Publication Provisions
+
+A. Comments Received
+
+    Several commenters supported the proposed rescission of the NBR 
+Rule's authorization for the Bureau to publish registration information 
+because, in their view, publication is unnecessary and burdensome for a 
+variety of reasons.
+    Multiple industry associations and an association representing 
+State regulators stated that company information and orders are already 
+publicly available, including through NMLS, State and Federal agencies, 
+the Better Business Bureau, and other sources. One of these commenters 
+stated that, instead of publishing registration information that is 
+already public, the Bureau could simply provide a link to the relevant 
+information on the NMLS website or create a web portal of centralized 
+information based on the Bureau's own data gathering that is not 
+reliant on a reporting requirement. A mortgage industry association 
+suggested that, to the extent company information and orders are not in 
+NMLS, the Bureau could add them to NMLS. The same commenter stated that 
+publicizing the information is unnecessary to help enforcement agencies 
+because the orders themselves already generally provide for compliance 
+monitoring.
+    Multiple industry commenters and an individual commenter stated 
+that publication would create confusion and undue reputational harm to 
+registrants, in part due to the inclusion of consent orders, which 
+often contain no findings or admissions of wrongdoing and thus would 
+be, in these commenters' view, indistinguishable from litigated cases 
+or judgments. Two industry commenters likewise expressed concern that 
+the Bureau would publicize ``unreliable'' registration information that 
+is not indicative of misconduct or violations. In a similar vein, a 
+credit union industry association stated that the registry would be 
+overwhelmed with minor infractions. A mortgage industry association 
+stated that the public identification of senior executives by name will 
+make compliance recruiting difficult.
+    The two nonprofit commenters opposed the proposed rescission of the 
+NBR Rule's authorization of publication because, in their view, 
+publication would enhance deterrence of conduct that would lead to 
+orders that are published, would enable less fragmented fact gathering 
+and thus more efficient risk-based oversight by other regulators, and 
+would provide a one-stop source of information for consumers and the 
+public. These commenters stated that withdrawing the plan for a public 
+registry would limit oversight, consumer shopping, choice, and 
+competitiveness by making it harder for other regulators, consumers, 
+and the public to identify recidivism and other patterns of misconduct 
+by nonbanks. One of these commenters stated that a public registry is 
+needed to help States pursue enforcement by identifying patterns and 
+practices of misconduct in a context where the Bureau, in the 
+commenter's view, is deemphasizing enforcement. These commenters also 
+stated that it is unrealistic for consumers to conduct piecemeal 
+research on all of the sources of information that a public Bureau 
+registry would centralize.
+
+B. Response to Comments
+
+    The Bureau agrees with commenters who noted that the information 
+the NBR Rule authorizes for publication is already publicly available, 
+which greatly limits the utility of Bureau publication of such 
+information. The Bureau also agrees with commenters who stated that the 
+mix of types of orders that would be subject to publication--including 
+litigated judgments, consent orders, settlements involving no admission 
+of liability, orders for which supervised nonbanks have submitted 
+written statements affirming steps taken to review and oversee 
+activities subject to the orders, or for which the Bureau or other 
+regulators have found substantial compliance, and others--and the wide 
+range of covered laws and scope and severity of harm implicated by such 
+orders renders the value of publication to consumers and the public 
+questionable at best. It is unlikely that consumers would be able to 
+distinguish between orders that relate to actual instances of serious 
+misconduct and those that relate to more benign (or disputed) 
+violations, or to distinguish between orders that are truly indicative 
+of significant harmful recidivism or recidivism-related risk. This lack 
+of understanding could paint covered nonbanks subject to a variety of 
+orders of varying degrees of seriousness and established liability with 
+a broad brush as ``recidivists'' or ``repeat offenders'' and result in 
+reputational impacts that put them at a competitive disadvantage.
+    The Bureau disagrees with commenters that opposed the rescission of 
+the NBR Rule's authorization of publication based on an expectation 
+that publication would enhance deterrence of conduct that would lead to 
+the issuance of orders that are published. As a threshold matter, the 
+mechanisms that operate to make covered orders public in the first 
+instance did not prevent them from coming into existence. Regardless, 
+these commenters provided no evidence to support their stated 
+expectation that the Bureau's (re)publication of such orders would do 
+so. And in any case, the potential for deterrence is not relevant 
+inasmuch as the NBR Rule authorized publication of covered orders 
+entered into prior to the NBR Rule's effective date, including
+
+[[Page 48769]]
+
+well before the Bureau even proposed the NBR Rule.\67\
+---------------------------------------------------------------------------
+
+    \67\ See 12 CFR 1092.201(e)(5) (defining ``covered order'' to 
+include those orders that, among other criteria, have ``an effective 
+date on or later than January 1, 2017'').
+---------------------------------------------------------------------------
+
+    Commenters opposed to rescission of the publication provisions also 
+did not provide evidence to support the suggestion that publication 
+would lead to efficiencies for other regulators, consumers, and the 
+public. Indeed, the association representing State regulators supported 
+rescission of the NBR Rule in its entirety based in large part on the 
+rule's publication provisions resulting in duplication of publicly 
+accessible information. In regard to consumer benefit, there is little 
+if any indication that individual consumers would understand the 
+complexities of the Bureau's NBR system and how it interrelates with 
+the NMLS system. While the Bureau in the NBR Rule discussed potential 
+benefits of publication beyond direct benefit to consumers, it nowhere 
+established or even analyzed how useful comparatively a centralized 
+database would be, for example, to researchers who already have access 
+to NMLS Consumer Access, other State registries, and the websites of 
+Federal regulators from which they can draw information, not to mention 
+search engines and other evolving and extremely powerful research 
+tools. Further, such researchers may continue to use those sources 
+anyway, given that NMLS and other regulators' websites include more 
+regulatory orders than the set of covered orders that the NBR Rule 
+authorized the Bureau to publish on the Bureau's website.
+
+C. Final Rule
+
+    The Bureau is finalizing its rescission of the NBR Rule's 
+publication provisions at Sec.  1092.205 as proposed.
+    In promulgating the NBR Rule, the Bureau maintained that the rule, 
+including its planned publication of information submitted to the 
+registry, would benefit consumers and the wider public. However, as 
+noted above in response to comments, it is unlikely that consumers 
+would find the registry useful, including as a tool to comparison-shop 
+among providers of consumer financial products and services. Indeed, 
+the Bureau acknowledged in the NBR Rule that it did ``not necessarily 
+expect a wide group of consumers to rely routinely on the Bureau's 
+registry when selecting consumer financial products or services,'' \68\ 
+thereby undermining the supposed benefits of the NBR Rule. Moreover, 
+the Bureau stated its belief that most consumers would not change their 
+behavior given that more direct and timely information (for example, 
+loan disclosures provided during origination) has been found to be more 
+impactful on consumer behavior than simply centralized publicly 
+available information.\69\ At the same time, the NBR Rule did not 
+consider or explain how the Bureau planned to publicly present the 
+information collected, much less test whether or how any form of 
+publication could be beneficial.
+---------------------------------------------------------------------------
+
+    \68\ 89 FR 56028 at 56042.
+    \69\ Id. at 56141.
+---------------------------------------------------------------------------
+
+    Moreover, in the NBR Rule, the Bureau stated its plan to publish 
+information submitted to the registry only on a discretionary basis, 
+which underscores the speculative nature of the benefits of provisions 
+in the NBR Rule authorizing such publication and touted by commenters 
+opposed to rescission. The NBR Rule does not require the Bureau to 
+publish the information, so by necessity, any benefits attached to the 
+authorization to publish are purely theoretical, since the NBR Rule did 
+not provide any guarantee that publication would occur.
+    By contrast, while the potential for publication may not provide 
+actual benefits, the threat of publication does impose actual costs. As 
+discussed above, even the threat of publicly identifying an attesting 
+executive may affect recruiting and retention of compliance 
+professionals.
+    In addition, the NBR Rule's discussion of costs that attach to any 
+publication that does occur also was deficient. The Bureau stated in a 
+rather conclusory manner that the ``potential publication of 
+information related to consent orders . . . will not impose unfair 
+costs on consenting entities.'' \70\ While the Bureau might have hoped 
+that such costs would not be unfair, it provided scant support for this 
+belief; the Bureau merely repeated that the information that would be 
+published would be factual public information, but did not suggest the 
+Bureau had seriously considered how it may present such information 
+publicly in a registry it characterized as for ``repeat offenders'' and 
+``recidivists,'' much less account for the fact that the NBR Rule made 
+all covered orders eligible for publication even though they reflect 
+varying degrees of liability and types of violations. The more relevant 
+inquiry relates to the costs of the entire publication regime. The NBR 
+Rule also found that the ``publication provisions of the rule will 
+impose only minor costs on affected entities resulting from changes in 
+consumer behavior.'' \71\ The Bureau believes that even if these costs 
+were only minor, they are not justifiable in light of the overall costs 
+of the NBR Rule.
+---------------------------------------------------------------------------
+
+    \70\ Id. at 56068.
+    \71\ Id. at 56131.
+---------------------------------------------------------------------------
+
+    The Bureau notes that publication is possible only to the extent 
+that the other costs of registration are borne by the Bureau. It is 
+therefore necessary and appropriate to consider the entirety of these 
+costs in weighing against any benefit of publication. As stated above, 
+the Bureau estimated that annual costs to maintain the NBR system--
+including publication of information submitted to the registry--would 
+be on the order of $2.5 million dollars and over 10,000 hours of Bureau 
+staff time. In light of the Bureau's conclusion that the NBR Rule, 
+including its publication provisions, is not necessary to monitor for 
+or detect and assess risk to consumers or to facilitate the Bureau's 
+supervisory functions, these costs are unjustified, especially when 
+considered alongside the speculative and unquantified benefits of 
+publication.
+
+IX. Alternatives Considered
+
+    In finalizing its rescission of the NBR Rule, the Bureau has 
+considered several possible alternatives. In each instance, the Bureau 
+has concluded that only full rescission of the NBR Rule is appropriate 
+at this time.
+
+A. Partial Rescission
+
+    One potential alternative to full rescission of the NBR Rule is a 
+partial rescission of certain of the rule's requirements or provisions. 
+A partial rescission could take several forms.
+    The Bureau could rescind only the NBR Rule's written-statement 
+requirements or its publication provisions, leaving in place the 
+registration requirements.\72\ Rescinding the written-statement 
+requirements would have relieved the burdens those requirements place 
+on supervised registered entities, including, among others, the direct 
+labor costs associated with annual submission of written statements and 
+costs associated with negative effects on recruiting and retention of 
+compliance professionals. Rescinding the Bureau's authorization to 
+publish registration information would relieve the burden on covered 
+nonbanks that may face reputational
+
+[[Page 48770]]
+
+and other harms from publication. However, neither of these 
+alternatives would address the duplicative nature of the registry or 
+the costs to regulated entities and to the Bureau of maintaining the 
+registration system. Because the Bureau has concluded that the 
+collection of information mandated by the NBR Rule is not necessary, 
+the Bureau declines to pursue partial rescission of the NBR Rule's 
+other key components, which would leave the collection aspect in place.
+---------------------------------------------------------------------------
+
+    \72\ Rescission of only the registration requirements without 
+rescinding the written-statement requirements or publication 
+provisions effectively would achieve full rescission of the NBR 
+Rule, since the latter two components are predicated on the first. 
+Accordingly, the Bureau did not consider rescission of only the 
+registration requirements as a reasonable alternative.
+---------------------------------------------------------------------------
+
+    Apart from, or in addition to, rescinding the NBR Rule's non-
+registration provisions, the Bureau could rescind certain aspects of 
+the registration requirements. For example, the Bureau could have 
+sought to limit the registration requirements to apply only to covered 
+orders that do not appear on NMLS, so that covered nonbanks with such 
+orders need not fulfill even the more limited registration obligation 
+for NMLS-published covered orders. The Bureau also could have sought to 
+require registration of only those orders issued or obtained by Federal 
+agencies, or to eliminate or reduce the number of State laws listed in 
+appendix A that qualify as covered laws under the NBR Rule. While these 
+approaches likely would have resulted in a reduction of the number of 
+nonbanks required to register with the Bureau, the burdens on those 
+that would have retained registration obligations still would not have 
+been justified by the rule's speculative and unquantified benefits. Nor 
+would the Bureau need this more limited collection regime to fulfill 
+its market monitoring and supervisory functions. Accordingly, the 
+Bureau declines to pursue a partial rescission of the NBR Rule's 
+registration requirements.
+
+B. General Registration Requirement for Nonbanks
+
+    One commenter suggested another alternative to full rescission, 
+wherein the NBR Rule would be amended such that it serves as a general 
+requirement for nonbanks to register with the Bureau, regardless of 
+whether they have covered orders. Under this alternative, according to 
+the commenter, registration requirements would be tied to the Bureau's 
+complaint portal.
+    A general requirement for nonbanks to register with the Bureau that 
+is untethered to the nonbank being under a covered order would be 
+materially different in scope and type from the NBR Rule. A shift to 
+such an approach would require additional analysis of the costs and 
+benefits involved and identification of unique benefits to consumers 
+and the Bureau. The Bureau thus concludes that a general nonbank 
+registration requirement is not an alternative to the NBR Rule but 
+instead would amount to an entirely different alternative rulemaking, 
+and therefore declines to pursue this approach.
+
+X. Effective Date of Final Rule
+
+Proposed Rescission Rule
+
+    The Administrative Procedure Act (APA) generally requires that 
+substantive rules be published not less than 30 days before their 
+effective dates, subject to exceptions.\73\ The Bureau proposed that, 
+once issued, the final rule would be effective on the date that it is 
+published in the Federal Register, because the Bureau preliminarily 
+found that two of the APA's exceptions would apply to the rule. First, 
+the rule would ``grant[ ] or recognize[ ] an exemption or relieve[ ] a 
+restriction,'' and second, there was ``good cause'' for the rescission 
+of the NBR Rule to be immediately effective upon publication because 
+the rescission would end all information submission requirements for 
+regulated entities and so was not the kind of rule for which regulated 
+entities would need additional time to conform their conduct.\74\
+---------------------------------------------------------------------------
+
+    \73\ 5 U.S.C. 553(d).
+    \74\ 5 U.S.C. 553(d)(1), (3).
+---------------------------------------------------------------------------
+
+Comments Received
+    Two industry commenters supported the proposal for the rescission 
+rule to take effect immediately upon publication in the Federal 
+Register. One of these commenters stated that the rule should take 
+effect immediately upon publication because rescission provides 
+regulatory relief and imposes no burden on regulated entities. The 
+other commenter agreed with the Bureau that the statutory exceptions to 
+the general requirement apply and stated that there are no 
+considerations that would support finalizing an effective date that is 
+30 or 60 days after publication.
+Response to Comments Received
+    The final rule will take effect on the date of publication in the 
+Federal Register. The Bureau agrees with the two commenters that the 
+final rule meets the APA exceptions and that no additional time is 
+needed because of the rule's deregulatory effects. Specifically, the 
+final rule relieves covered nonbanks of the need to comply with the NBR 
+Rule's registration and written-statement requirements. Good cause 
+exists to expedite the final rule's effective date, as a final rule 
+that is effective upon publication will provide immediate relief to 
+such entities that otherwise may feel compelled to continue to expend 
+resources to comply with the NBR Rule before its rescission becomes 
+effective.
+Final Rule
+    The effective date of the final rule is October 29, 2025.
+
+XI. Dodd-Frank Act Section 1022(b) Analysis
+
+A. Overview
+
+    In developing this final rule, the Bureau has considered the rule's 
+potential benefits, costs, and impacts.\75\ In developing this final 
+rule, the Bureau has consulted with, or offered to consult with, the 
+appropriate prudential regulators and other Federal agencies, including 
+regarding consistency with any prudential, market, or systemic 
+objectives administered by such agencies. Under CFPA sections 
+1022(c)(7)(C) and 1024(b)(7)(D), the Bureau has also consulted with 
+State agencies.\76\
+---------------------------------------------------------------------------
+
+    \75\ Specifically, section 1022(b)(2)(A) of the CFPA requires 
+the Bureau to consider the potential benefits and costs of the 
+regulation to consumers and covered persons, including the potential 
+reduction of access by consumers to consumer financial products and 
+services; the impact of the proposed rule on insured depository 
+institutions and insured credit unions with $10 billion or less in 
+total assets as described in section 1026 of the CFPA; and the 
+impact on consumers in rural areas. 12 U.S.C. 5512(b)(2)(A).
+    \76\ 12 U.S.C. 5512(c)(7)(C), 5514(b)(7)(D).
+---------------------------------------------------------------------------
+
+    The Bureau is issuing this final rule to rescind the requirement 
+that nonbanks report certain public agency and court orders imposing 
+obligations based on violations of consumer protection laws because the 
+Bureau believes this requirement unnecessarily imposes significant 
+obligations on nonbank covered persons that are not justified by 
+countervailing benefits to consumers or the Bureau.
+    The NBR Rule has three provisions. The first provision (hereinafter 
+referred to as the ``Registration Provision'') requires nonbank covered 
+persons that are subject to certain public orders to register with the 
+Bureau and to submit copies of each such public order to the Bureau. 
+The second provision (hereinafter referred to as the ``Supervisory 
+Reports Provision'') requires nonbank covered persons that are subject 
+to supervision and examination by the Bureau to prepare and submit an 
+annual written statement, signed by a designated individual, regarding 
+compliance with each covered public order with an effective date on or 
+after the applicable implementation date for the rule. The third 
+provision (hereinafter referred to as the ``Publication Provision'') 
+describes the registration information the Bureau may
+
+[[Page 48771]]
+
+make publicly available. Accordingly, for purposes of this analysis, 
+this final rescission rule can be divided into three provisions that 
+each rescind one of the three provisions of the NBR Rule.
+
+B. Data Limitations and Quantification of Benefits, Costs, and Impacts
+
+    The discussion below relies in part on information that the Bureau 
+has obtained from commenters, other regulatory agencies, and publicly 
+available sources. The Bureau performed outreach with other regulatory 
+agencies on many of the issues addressed by the NBR Rule that are 
+further considered here. However, as discussed further below, the data 
+are generally limited with which to quantify the costs, benefits, and 
+impacts of the final provisions. In light of these data limitations, 
+the analysis below generally provides a qualitative discussion of the 
+benefits, costs, and impacts of the final provisions. General economic 
+principles and the Bureau's experience and expertise in consumer 
+financial markets, together with the limited data that are available, 
+provide insight into these benefits, costs, and impacts.
+    The limited data that are available include the registrations the 
+Bureau has received so far because of the NBR Rule. The registration 
+deadlines that flowed from the NBR Rule were January 14, 2025, for 
+larger participants, April 14, 2025, for other supervised nonbanks, and 
+July 14, 2025, for other covered nonbanks. Because as time progressed 
+market participants likely assessed a decreasing probability that the 
+NBR Rule would be maintained or enforced, the registration data are 
+most likely to be accurate for larger participants, less likely to be 
+accurate for other supervised nonbanks, and even less likely to be 
+accurate for other covered nonbanks.
+    Roughly 250 entities have so far created an account in the NBR 
+system. However, of these only roughly 110 have registered an order. 
+Very few entities submitted a good-faith notice that they were not 
+covered nonbanks or that their orders were not covered orders, so a 
+majority of the registrations received so far are incomplete. This 
+could indicate that some entities were unsure of their obligations 
+under the NBR Rule or confused by the NBR system. It could also 
+indicate that some entities started the registration process but 
+stopped when rescission of the NBR Rule became increasingly likely and 
+interim enforcement of the NBR Rule became increasingly unlikely. 
+Because the registration data are incomplete and not representative, 
+the analysis below does not rely on them.
+
+C. Baseline for Analysis
+
+    In evaluating the benefits, costs, and impacts of the final rule, 
+the Bureau takes as a baseline the current legal framework regarding 
+orders covered by the NBR Rule. Therefore, the baseline for the 
+analysis of this final rule is that nonbank covered persons are 
+required to register with the Bureau, nonbank covered persons subject 
+to Bureau supervision and examination generally are required to prepare 
+and submit annual reports regarding compliance with covered orders, and 
+information on the nonbank covered persons and most corresponding 
+covered orders may be published by the Bureau in the manner 
+contemplated by the NBR Rule.
+    Relative to the baseline, the costs and benefits of this final 
+rescission rule discussed below depend on how many nonbank covered 
+persons would comply with the NBR Rule even if it were not prioritized 
+for enforcement by the Bureau. The Bureau believes that, under the 
+baseline, some nonbank covered persons would comply with the NBR Rule, 
+but the Bureau cannot quantify how many.
+    This final rescission rule should affect the market as described 
+below for as long as it is in effect. However, the costs, benefits, and 
+impacts of any rule are difficult to predict far into the future. 
+Therefore, the analysis below of the benefits, costs, and impacts of 
+the final rule is most likely to be accurate for the first several 
+years following implementation of the final rule.
+
+D. Potential Benefits and Costs of the Final Rule to Consumers and 
+Covered Persons
+
+    The costs and benefits of these provisions are discussed separately 
+below. However, one benefit of this final rule applies to repealing 
+these provisions jointly. The Bureau estimated in its PRA Supporting 
+Statement for the NBR Rule that the annual costs to the Federal 
+government to operate the registry would amount to ``$2.5 million for 
+external vendor support and 10,400 hours of Federal staff time.'' \77\ 
+Some of these costs have already been incurred and are unrecoverable. 
+Some other costs may be recoverable even under the baseline, such as 
+some of the costs for ongoing external vendor support or internal 
+reporting or reviews of incoming registrations for data quality and 
+accuracy. However, other such costs may not be recoverable under the 
+baseline because the Bureau would need to incur some of those costs 
+with respect to the registrations it already has received and any 
+registrations and supervisory reports it would continue to receive. In 
+addition, other costs (such as allocating resources to evaluate the 
+significance of any annual written statement reporting any instance of 
+noncompliance with a covered order, coordinating with various external 
+stakeholders seeking information from or about the registry, and 
+performing cybersecurity audits) will be recoverable only under this 
+final rule. Therefore, one benefit of this final rule will be to 
+recover these costs.
+---------------------------------------------------------------------------
+
+    \77\ See discussion supra.
+---------------------------------------------------------------------------
+
+    With certain exceptions, the NBR Rule (and by extension this final 
+rescission rule) applies to nonbank covered persons as defined in the 
+CFPA, including persons that engage in offering or providing a consumer 
+financial product or service.\78\ Among others,\79\ these products and 
+services generally include those listed below, at least to the extent 
+they are offered or provided for use by consumers primarily for 
+personal, family, or household purposes:
+---------------------------------------------------------------------------
+
+    \78\ For the full scope of the term ``covered person,'' see 12 
+U.S.C. 5481(6).
+    \79\ For the full scope of the term ``consumer financial product 
+or service,'' see 12 U.S.C. 5481(5).
+---------------------------------------------------------------------------
+
+     Extending credit and servicing loans;
+     Extending or brokering certain leases of personal or real 
+property;
+     Providing real estate settlement services;
+     Engaging in deposit-taking activities, transmitting or 
+exchanging funds, or otherwise acting as a custodian of funds;
+     Selling, providing, or issuing stored value or payment 
+instruments;
+     Providing check cashing, check collection, or check 
+guaranty services;
+     Providing payments or other financial data processing 
+products or services to a consumer by any technological means;
+---------------------------------------------------------------------------
+
+    \80\ See 12 U.S.C. 5481(15) (defining term ''financial product 
+or service'').
+---------------------------------------------------------------------------
+
+     Providing financial advisory services;
+     Collecting, analyzing, maintaining, or providing consumer 
+report information or certain other account information; and
+     Collecting debt related to any consumer financial product 
+or service.\80\
+
+[[Page 48772]]
+
+    The Registration and Publication Provisions affect such covered 
+persons (as that term is defined in 12 U.S.C. 5481(6)) that (1) are not 
+insured depository institutions, insured credit unions, or related 
+persons (as that term is defined in 12 U.S.C. 5481(25)), and (2) have 
+had covered orders issued against them, unless such covered persons are 
+subject to certain exclusions. The Supervisory Reports Provision 
+affects such covered persons that (1) are subject to supervision and 
+examination by the Bureau pursuant to CFPA section 1024(a),\81\ (2) 
+have had covered orders issued against them that took effect on or 
+after the implementation date, (3) are at or above the $5 million 
+annual receipt threshold specified in the NBR Rule,\82\ unless such 
+covered persons are subject to certain exclusions, and (4) are not 
+registering all such covered orders under the one-time registration 
+option for NMLS-published covered orders under Sec.  1092.203.
+    To derive an estimate of the number of affected entities under the 
+final rule using publicly available data, the Bureau used data from the 
+most recent Economic Census. Table 1 below presents entity counts for 
+the North American Industry Classification System (NAICS) codes that 
+generally align with the financial services and products listed above. 
+The markets defined by NAICS codes in some cases include entities that 
+do not qualify as covered nonbanks under the NBR Rule. It is also 
+possible that some covered nonbanks may not be counted in the table 
+below, because, e.g., the financial services they provide are not their 
+primary line of business.
+
+                Table 1--Potential Scope of Proposed Rule
+------------------------------------------------------------------------
+                                                        Number of NAICS
+          NAICS name(s)              NAICS code(s)         entities
+------------------------------------------------------------------------
+Nondepository Credit              5222..............  14,330
+ Intermediation.
+Activities Related to Credit      5223..............  13,618
+ Intermediation.
+Portfolio Management............  523920............  24,430
+Investment Advice...............  523930............  17,510
+Passenger Car Leasing...........  532112............  449
+Truck, Utility Trailer, and       532120............  1,612
+ Recreational Vehicle Rental and
+ Leasing.
+Activities Related to Real        5313..............  79,563
+ Estate.
+Consumer Reporting..............  561450............  307
+Debt Collection.................  561440............  3,224
+                                 ---------------------------------------
+    Total.......................  ..................  155,043
+------------------------------------------------------------------------
+
+    Therefore, for purposes of its analysis of this final rescission 
+rule, the Bureau estimates that there are roughly 155,043 covered 
+nonbanks. As noted above, covered nonbanks will only be affected by the 
+NBR Rule (and by extension this final rescission rule) if they are 
+subject to covered orders. Based on its experience and expertise, in 
+its analysis for the NBR Rule the Bureau estimated and reaffirms here 
+that perhaps one percent, and at most five percent, of covered nonbanks 
+are subject to covered orders. Therefore, the Bureau estimates that 
+this final rescission rule would likely affect between 1,550 and 7,752 
+covered nonbanks.
+---------------------------------------------------------------------------
+
+    \81\ 12 U.S.C. 5514(a).
+    \82\ See 12 CFR 1092.201(q)(4).
+---------------------------------------------------------------------------
+
+    In the NBR Rule, the Bureau sought to check the reasonableness of 
+its estimate by obtaining data from a database titled ``Violation 
+Tracker,'' maintained by Washington, DC-based nonprofit Good Jobs First 
+(https://violationtracker.goodjobsfirst.org/). As described in the NBR 
+Rule, using these data the Bureau estimated that orders plausibly 
+covered by the NBR Rule applied to roughly 3,700-4,000 unique entities. 
+The Bureau notes that these numbers are consistent with its estimate of 
+the number of entities likely to be affected by the final rule (1,550 
+to 7,752 covered nonbanks).
+    As discussed above, the Bureau has to date received roughly 250 
+submissions reflecting registrations or apparent efforts to begin 
+registrations under the NBR Rule. Also, as discussed above, an unknown 
+number of entities subject to the provisions of the NBR Rule have not 
+yet registered or begun registrations with the Bureau, both because of 
+the Bureau's announcement that it would not prioritize enforcement of 
+these provisions and because of the Bureau's announcement that it would 
+rescind the provisions. Therefore, the Bureau does not view 250 as a 
+reliable estimate of the number of entities that will be affected by 
+this final rule, but it is likely to be a lower bound on the number of 
+entities that will be affected by this final rule. This lower bound is 
+not inconsistent with the estimates above.
+1. Registration Provision
+    Under this final provision, affected entities will no longer be 
+required to provide to the Bureau: (1) identifying information and 
+administrative information and (2) information regarding covered 
+orders. For covered persons subject to the Registration Provision that 
+have already completed registrations, most of the costs associated with 
+the Registration Provision are unrecoverable.
+    For entities that have not yet complied with the Registration 
+Provision but are subject to it, the benefits of this final provision 
+depend on whether they would register under the baseline. For affected 
+entities that would not comply with the Registration Provision under 
+the baseline, the main benefit of this final provision will be to 
+reduce legal risk. The Bureau cannot quantify this benefit. For 
+affected entities that would comply with the Registration Provision 
+under the baseline, the main benefit of this final provision is that 
+they will no longer need to incur the costs to do so. The Bureau 
+estimates this benefit to be on the order of at least a few hours of an 
+employee's time per order. The benefit will likely be higher for firms 
+with covered orders that are frequently modified. The benefit will 
+likely be lower for firms that have NMLS-published covered orders and 
+under the baseline would exercise the one-time registration with 
+respect to those orders.
+    To obtain a quantitative estimate of the benefit of this final 
+provision, the Bureau assesses the average hourly base wage rate for 
+the reporting requirement at $50.88 per hour. This is the mean hourly 
+wage for employees in four major occupational groups assessed to be 
+most likely responsible for the registration process: Management 
+($68.15/hr); Legal
+
+[[Page 48773]]
+
+Occupations ($66.19/hr); Business and Financial Operations ($45.04/hr); 
+and Office and Administrative Support ($24.12hr).\83\ We multiply the 
+average hourly wage of $50.88 by the private industry benefits factor 
+of 1.42 to get a fully loaded wage rate of $72.25/hr.\84\ The Bureau 
+includes these four occupational groups in order to account for the mix 
+of specialized employees that may assist in the registration process. 
+The Bureau assesses that the registration process is completed by 
+office and administrative support employees that are generally 
+responsible for the registrant's paperwork and other administrative 
+tasks. Employees specialized in business and financial operations or in 
+legal occupations likely provide information and assistance with the 
+registration process. Senior officers and other managers likely review 
+the registration information before it is submitted and may provide 
+additional information. Assuming as outlined above a fully loaded 
+hourly wage rate of roughly $72, and that complying with the 
+Registration Provision would take around five hours of employees' time, 
+yields an estimated cost of complying with the Registration Provision 
+of around $360 per firm. Therefore, this final provision would provide 
+a benefit of around $360 per firm.
+---------------------------------------------------------------------------
+
+    \83\ See U.S. Bureau of Labor Statistics, National Occupational 
+Employment and Wage Estimates United States (May 2024), https://www.bls.gov/oes/current/oes_nat.htm.
+    \84\ As of March 2025, the ratio between total compensation and 
+wages for private industry workers is 1.42. See U.S. Bureau of Labor 
+Statistics, Employer Costs for Employee Compensation: Private 
+industry dataset (March 2025), https://www.bls.gov/web/ecec/ecec-private-dataset.xlsx.
+---------------------------------------------------------------------------
+
+    In the NPRM for this rescission, the Bureau sought specific comment 
+on the extent to which the costs imposed by the NBR Rule, if reversed 
+by this final rule, would result in the benefit of reduced compliance 
+burden to nonbank entities. One nonprofit commenter stated, with 
+respect to the benefits to covered persons of rescinding the NBR Rule, 
+that compliance with the rule's registration requirements is simple, 
+such as through the one-time registration option, and supervised 
+entities need only submit an annual certification. This is partially 
+consistent with feedback the Bureau received from some initial 
+registrants, who indeed stated that the registration process was simple 
+but also that it was challenging for nonbanks to understand whether and 
+when they needed to register. Another commenter stated that the NBR 
+Rule understated the costs the Registration Provision imposed on 
+covered entities. If this commenter is correct, then the benefits of 
+this final provision estimated above are conservative, and the true 
+benefits to nonbank covered persons will be larger.
+    This final provision will likely not impose any costs on affected 
+entities.
+    This final provision will likely not bring significant benefits to 
+consumers. As noted above, this final provision will lower costs for 
+some firms, and those firms may respond to these decreased costs by 
+decreasing prices for consumers. However, economic theory generally 
+predicts no to low price passthrough rates for fixed operating costs 
+like those imposed by the NBR Rule, although there is disagreement 
+among researchers, depending upon assumptions.\85\ Moreover, as 
+discussed above, the benefits of this final provision will be limited, 
+so any price decreases caused by the rule will also be limited. For 
+example, if this final provision saves 4,000 firms each on average 
+$360, then the total savings of this final provision that could be 
+passed on to consumers in aggregate is $1,440,000. Most firms will not 
+be affected at all by this final provision and so will not decrease 
+prices because of this final provision.
+---------------------------------------------------------------------------
+
+    \85\ See Kamphorst et al., Fixed costs matter even when the 
+costs are sunk, (2020) Economics Letters 195.
+---------------------------------------------------------------------------
+
+    This final provision will likely not impose any significant costs 
+on consumers. Specifically, the Bureau believes that information 
+submitted under the Registration Provision is not helpful for the 
+fulfillment of its statutory duties and so it provides no benefits to 
+consumers. Accordingly, rescinding the Registration Provision will 
+impose no costs on consumers.
+2. Supervisory Reports Provision
+    This provision will only affect covered nonbanks subject to Bureau 
+supervision and examination that have a covered order that took effect 
+on or after the implementation date and whose annual receipts from 
+consumer financial products and services are $5 million or more. 
+Furthermore, this provision will only affect such nonbanks that do not 
+have, or under the baseline would choose not to exercise, the one-time 
+registration option for NMLS-published covered orders. Therefore, this 
+provision will affect fewer covered nonbanks and fewer consumers than 
+the Registration Provision analyzed above.
+    For entities that have not yet complied with the Supervisory 
+Reports Provision but are subject to it, the benefits of this provision 
+depend on whether they would comply with the Supervisory Reports 
+Provision under the baseline. For affected entities that would not 
+comply with the Supervisory Reports Provision under the baseline, the 
+main benefit of this final provision will be to reduce legal risk. The 
+Bureau cannot quantify this benefit. For affected entities that would 
+comply with the Supervisory Reports Provision under the baseline, the 
+main benefit of this final provision is that they will no longer need 
+to incur the costs to do so.
+    One effect on these entities will be that they will no longer need 
+to designate an attesting executive. Under the existing NBR Rule, the 
+attesting executive must be a duly appointed senior executive officer 
+(or, if no such officer exists, the highest-ranking individual at the 
+entity charged with managerial or oversight responsibilities) (i) whose 
+assigned duties include ensuring the supervised registered entity's 
+compliance with Federal consumer financial law, (ii) who possesses 
+knowledge of the supervised registered entity's systems and procedures 
+for achieving compliance with the covered order, and (iii) who has 
+control over the supervised registered entity's efforts to comply with 
+the covered order. The Bureau believes that, even under this final 
+rule, most supervised entities will still take active steps to comply 
+with covered orders and therefore will have such an officer or 
+individual in place to oversee the entity's compliance with its 
+obligations under the covered order. Therefore, the Bureau anticipates 
+that rescinding this designation requirement will not change the 
+ability of most supervised registered entities to name an attesting 
+executive, were one required, so the overall benefit of rescinding the 
+designation requirement will be small. However, rescinding this 
+designation requirement will benefit supervised entities that lack a 
+high-ranking officer or other employee with the requisite 
+qualifications to serve as an attesting executive.
+    Under the baseline, the existing Supervisory Reports Provision 
+requires that the supervised registered entity submit a written 
+statement signed by the applicable attesting executive for each covered 
+order to which it is subject. In the written statement, the attesting 
+executive must: (i) generally describe the steps that the attesting 
+executive has undertaken to review and oversee the supervised 
+registered entity's activities subject to the applicable covered order 
+for the preceding calendar year; and (ii) attest whether, to the 
+attesting executive's knowledge, the supervised registered entity 
+during the preceding calendar year identified any violations or other 
+instances of noncompliance
+
+[[Page 48774]]
+
+with any obligations that were imposed in a public provision of the 
+covered order by the applicable agency or court based on a violation of 
+a covered law.
+    The Bureau does not have the data to precisely quantify the benefit 
+of the rescission of the written-statement requirement on impacted 
+firms. Based on its experience and expertise, the Bureau believes that 
+most entities subject to covered orders endeavor in good faith to 
+comply with them and already have in place some manner of systems and 
+procedures to help achieve such compliance. However, the Bureau also 
+believes that even at entities endeavoring in good faith to comply with 
+covered orders, executives (or potential executives) may be reluctant 
+to take on the administrative and legal burden of signing the required 
+attestation. Therefore, under the baseline, these entities may have 
+difficulty hiring or retaining such executives, and may incur 
+additional costs to do so. This is consistent with social science 
+research finding that human behavior can be greatly affected by even 
+small probabilities of losses.\86\ It is also consistent with multiple 
+comments submitted by several different trade associations, as well as 
+feedback the Bureau received from industry after the registry system 
+went live. The Bureau agrees with these commenters that rescinding the 
+attestation provision will allow affected entities to attract and 
+retain effective compliance professionals at lower cost. The Bureau 
+cannot quantify this benefit.
+---------------------------------------------------------------------------
+
+    \86\ See Kahneman and Tversky, Prospect Theory: An Analysis of 
+Decision Under Risk, (1979) Econometrica 47(2).
+---------------------------------------------------------------------------
+
+    While under the baseline the attesting executive must sign the 
+written statement, the Bureau believes that other employees in other 
+major occupational groups (Legal Occupations, Business and Financial 
+Operations, and Office and Administrative Support) support the 
+attesting executive in preparing the statement. Assuming that 
+satisfying the written-statement requirement takes twenty hours of 
+employees' time, and that the average cost to entities of an employee's 
+time is roughly $72 an hour as discussed above, yields an estimate that 
+the cost of this requirement on affected entities is roughly $1,440 per 
+firm. Therefore, repealing this provision would further save affected 
+entities roughly $1,440.
+    In addition, under the baseline, the Supervisory Reports Provision 
+requires entities to maintain records related to the written statement 
+for five years. Assuming that ensuring the necessary documents are 
+properly stored also requires ten hours of employee time adds $720 to 
+the costs to affected entities of this final provision. Therefore, 
+another benefit of this final provision will be to save affected 
+entities this estimated $720.
+    The benefits of this final provision may be even higher at larger 
+entities, because identifying instances of noncompliance with 
+obligations imposed in a public provision of a covered order may be 
+more complex at larger entities. The benefits will also likely be 
+higher at entities with multiple instances of noncompliance with public 
+provisions of covered orders, or with multiple covered orders.
+    One commenter argued that the compliance attestation requirement 
+helps to prevent repeat issues by holding executive leadership 
+accountable for order compliance, and that rescission of the 
+attestation requirement would increase the risk of repeat issues at 
+supervised nonbanks and so impose a cost on consumers. It is possible 
+that, under the baseline, some supervised registered entities would put 
+in place extra systems and procedures to allow them to more confidently 
+identify violations or other instances of noncompliance with any 
+obligations that were imposed in a public provision of the covered 
+order. If this final provision causes these entities not to put in 
+place these systems, it could impose a cost on consumers. However, as 
+noted above, based on its experience and expertise, the Bureau believes 
+that most entities subject to covered orders endeavor in good faith to 
+comply with them and will already have in place some manner of systems 
+and procedures to help achieve such compliance. Therefore, the Bureau 
+believes that the number of supervised registered entities that will 
+not put in place significant new compliance systems and procedures as a 
+result of the rule will be relatively small, generating little 
+potential cost to consumers. Moreover, as discussed above the Bureau 
+believes that rescinding the Supervisory Reports Provision will allow 
+affected entities to more effectively attract and retain compliance 
+professionals. This will benefit consumers, although the Bureau does 
+not have data to quantify this benefit.
+    This provision will likely not impose any costs on affected 
+entities or consumers. Specifically, the Bureau believes that 
+information submitted under the Supervisory Reports Provision is not in 
+a form that is likely to be helpful for its statutory duties and so 
+provides no benefits to consumers, and so rescinding the Supervisory 
+Reports Provision will impose no costs on consumers.
+3. Publication Provision
+    The Publication Provision allows the Bureau, at its discretion, to 
+publish on the Bureau's internet website (1) registered entities' 
+identifying information, (2) information regarding covered orders that 
+they provide to the Bureau, and (3) for supervised registered entities, 
+the name and title of the attesting executive.
+    As discussed in part VIII above, the Bureau believes that 
+publishing this information would be confusing and costly for consumers 
+and firms, and provide little or no benefit to other regulators. 
+Therefore, even under the baseline, the Bureau is unlikely to exercise 
+its ability to publish this information, and so this information would 
+not be published either under the baseline or under the final rule. 
+Therefore, rescinding this provision will impose no costs on entities 
+and no benefits or costs to consumers. The Bureau anticipates that, by 
+providing more certainty that this information will not be published, 
+this provision may provide benefits to some firms. The Bureau cannot 
+quantify this benefit.
+
+E. Potential Specific Impacts of the Final Rule
+
+1. Insured Depository Institutions and Insured Credit Unions With $10 
+Billion or Less in Total Assets, as Described in Section 1026
+    This final rule will only apply to nonbanks. Therefore, it will 
+have no direct impacts on any insured depository institution or insured 
+credit union. The rule may have some indirect effects on some insured 
+depository institutions and insured credit unions with $10 billion or 
+less in total assets. For example, insured depository institutions and 
+insured credit unions that are affiliated with affected entities might 
+experience indirect benefits because the final rule may benefit their 
+nonbank affiliates. Insured depository institutions and insured credit 
+unions that compete with affected entities might experience indirect 
+costs because of the proposed rule because the proposed rule may 
+benefit their competitors. But as noted above, even for nonbanks that 
+are directly affected by the final rule, the Bureau does not anticipate 
+that the rule's impact will be significant in most cases. Therefore, 
+the Bureau anticipates that any indirect effects on insured depository 
+institutions or insured credit unions
+
+[[Page 48775]]
+
+with $10 billion or less in total assets will be even less significant.
+2. Impact of the Proposed Rule on Access to Consumer Financial Products 
+and Services and on Consumers in Rural Areas
+    By benefiting affected covered nonbanks, the final rule may cause 
+affected covered nonbanks to provide more or better financial products 
+and services (or financial products and services at lower cost) to 
+consumers. Therefore, the negative impact of the final rule on consumer 
+access to financial products and services would be limited.
+    Broadly, the Bureau believes that the analysis above of the impact 
+of the final rule on consumers in general is applicable to the impact 
+of the final rule on consumers in rural areas as well. However, the 
+impact of the final rule on consumers in rural areas will likely be 
+relatively smaller if the proposed rule affects fewer entities in rural 
+areas. The Bureau does not have high-quality data on the rural market 
+share of entities that will be affected by the final rule, so the 
+Bureau cannot judge with certainty the relative impact of the rule on 
+rural areas. However, for certain large and well-studied markets, there 
+is evidence that nonbanks have larger market shares in urban areas and 
+smaller market shares in rural areas.\87\ Based on this limited 
+evidence, the Bureau expects that the impact of the final rule will be 
+smaller in rural areas.
+---------------------------------------------------------------------------
+
+    \87\ For evidence on the mortgage market, see Julapa Jagtiani, 
+Lauren Lambie-Hanson, and Timothy Lambie-Hanson, Fintech Lending and 
+Mortgage Credit Access, 1 The Journal of FinTech (2021). For 
+evidence on the auto loan market, see Donghoon Lee, Michael Lee, and 
+Reed Orchinik, Market Structure and the Availability of Credit: 
+Evidence from Auto Credit, MIT Sloan Research Paper (2022), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966710.
+---------------------------------------------------------------------------
+
+XII. Executive Order 12866
+
+    The Office of Information and Regulatory Affairs within the Office 
+of Management and Budget (OMB) has determined that this action is not a 
+``significant regulatory action'' under E.O. 12866, as amended.
+    E.O. 12866 states that ``Federal agencies should promulgate only 
+such regulations as are required by law, are necessary to interpret the 
+law, or are made necessary by compelling public need, such as material 
+failures of private markets. . . .'' The Bureau is not aware of the 
+existence of a market failure or other compelling public need that 
+would justify the retention of the ``Registry of Nonbank Covered 
+Persons Subject to Certain Agency and Court Orders,'' adopted via 89 FR 
+56028 on July 8, 2024.
+
+XIII. Regulatory Flexibility Act Analysis
+
+A. Overview
+
+    The Regulatory Flexibility Act (RFA) generally requires an agency 
+to conduct an initial regulatory flexibility analysis (IRFA) and a 
+final regulatory flexibility analysis (FRFA) of any rule subject to 
+notice-and-comment rulemaking requirements, unless the head of the 
+agency certifies that the rule will not have a significant economic 
+impact on a substantial number of small entities.\88\ The Bureau also 
+is subject to certain additional procedures under the RFA involving the 
+convening of a panel to consult with small business representatives 
+before proposing a rule for which an IRFA is required.\89\
+---------------------------------------------------------------------------
+
+    \88\ 5 U.S.C. 601 et seq.
+    \89\ 5 U.S.C. 609.
+---------------------------------------------------------------------------
+
+    A FRFA is not required for this final rule because it will not have 
+a significant economic impact on a substantial number of small 
+entities.
+
+B. Impact of Final Provisions on Small Entities
+
+    The NBR Rule has three principal sets of substantive provisions. 
+The first set of provisions (hereinafter referred to as the 
+``Registration Provision'') requires nonbank covered persons that are 
+subject to certain public agency and court orders enforcing the law to 
+register with the Bureau and to submit certain information related to 
+those public orders to the Bureau. The second set of provisions 
+(hereinafter referred to as the ``Supervisory Reports Provision'') 
+requires nonbank covered persons that are supervised by the Bureau to 
+prepare and submit an annual written statement, signed by a designated 
+individual, regarding compliance with each covered public order that 
+took effect after the applicable implementation date. The third set of 
+provisions (hereinafter referred to as the ``Publication Provision'') 
+describes the registration information the Bureau may make publicly 
+available. Accordingly, for purposes of this analysis, this final 
+rescission rule can be divided into three provisions that each rescind 
+one of the three principal sets of substantive provisions of the NBR 
+Rule.
+    The analysis below evaluates the economic impact of the final 
+provisions on small entities as defined by the RFA.\90\ The RFA's 
+definition of ``small'' varies by type of entity.\91\
+---------------------------------------------------------------------------
+
+    \90\ For purposes of assessing the impacts of the proposed rule 
+on small entities, ``small entities'' is defined in the RFA to 
+include small businesses, small organizations, and small government 
+jurisdictions. 5 U.S.C. 601(6). A ``small business'' is determined 
+by application of Small Business Administration regulations and 
+reference to the North American Industry Classification System 
+(NAICS) classifications and size standards. 5 U.S.C. 601(3). A 
+``small organization'' is any ``not-for-profit enterprise which is 
+independently owned and operated and is not dominant in its field.'' 
+5 U.S.C. 601(4). A ``small governmental jurisdiction'' is the 
+government of a city, county, town, township, village, school 
+district, or special district with a population of less than 50,000. 
+5 U.S.C. 601(5).
+    \91\ U.S. Small Bus. Admin., Table of Small Business Size 
+Standards Matched to North American Industry Classification System 
+Codes, https://www.sba.gov/sites/default/files/2023-06/Table%20of%20Size%20Standards_Effective%20March%2017%2C%202023%20%282%29.pdf (current SBA size standards).
+---------------------------------------------------------------------------
+
+    With certain exceptions, this final rule will apply to covered 
+persons as defined in the CFPA, including persons that engage in 
+offering or providing a consumer financial product or service.\92\ 
+Among others,\93\ these products and services would generally include 
+those listed below, at least to the extent they are offered or provided 
+for use by consumers primarily for personal, family, or household 
+purposes.
+---------------------------------------------------------------------------
+
+    \92\ For the full scope of the term ``covered person,'' see 12 
+U.S.C. 5481(6).
+    \93\ For the full scope of the term ``consumer financial product 
+or service,'' see 12 U.S.C. 5481(5).
+---------------------------------------------------------------------------
+
+     Extending credit and servicing loans;
+     Extending or brokering certain leases of personal or real 
+property;
+     Providing real estate settlement services;
+     Engaging in deposit-taking activities, transmitting or 
+exchanging funds, or otherwise acting as a custodian of funds;
+     Selling, providing, or issuing stored value or payment 
+instruments;
+     Providing check cashing, check collection, or check 
+guaranty services;
+     Providing payments or other financial data processing 
+products or services to a consumer by any technological means;
+     Providing financial advisory services;
+     Collecting, analyzing, maintaining, or providing consumer 
+report information or certain other account information; and
+     Collecting debt related to any consumer financial product 
+or service.\94\
+---------------------------------------------------------------------------
+
+    \94\ See 12 U.S.C. 5481(15) (defining term ``financial product 
+or service'').
+---------------------------------------------------------------------------
+
+    The Registration and Publication Provisions affect such covered 
+persons (as that term is defined in 12 U.S.C. 5481(6)) that (1) are not 
+insured depository institutions, insured credit
+
+[[Page 48776]]
+
+unions, or related persons (as that term is defined in 12 U.S.C. 
+5481(25)), and (2) have had covered orders issued against them, unless 
+such covered persons are subject to certain exclusions. The Supervisory 
+Reports Provision affects such covered persons that (1) are subject to 
+supervision and examination by the Bureau pursuant to CFPA section 
+1024(a),\95\ (2) have had covered orders issued against them that took 
+effect on or after the implementation date, (3) are at or above the $5 
+million annual receipt threshold, unless such covered persons are 
+subject to certain exclusions, and (4) are not registering all such 
+covered orders under the one-time registration option for NMLS-
+published covered orders under Sec.  1092.203.
+---------------------------------------------------------------------------
+
+    \95\ 12 U.S.C. 5514(a).
+---------------------------------------------------------------------------
+
+    The Bureau does not have reliable information on the number of 
+small, covered firms that are subject to covered orders. Therefore, the 
+Bureau cannot reliably estimate the number of small entities that will 
+be impacted by the final rule.
+1. Registration Provision
+    Under the provision of this final rule rescinding the Registration 
+Provision, affected entities will no longer be required to provide to 
+the Bureau: (1) identifying information and administrative information 
+and (2) information regarding covered orders. This should lower 
+compliance costs and legal risk for entities, including small entities. 
+Therefore, the rescission of the Registration Provision will impose no 
+significant burden on small entities.
+2. Supervisory Reports Provision
+    Under the Supervisory Reports Provision of the existing NBR Rule, 
+affected entities must designate an attesting executive. The attesting 
+executive must be a duly appointed senior executive officer (or, if no 
+such officer exists, the highest-ranking individual at the entity 
+charged with managerial or oversight responsibilities) (i) whose 
+assigned duties include ensuring the supervised registered entity's 
+compliance with Federal consumer financial law, (ii) who possesses 
+knowledge of the supervised registered entity's systems and procedures 
+for achieving compliance with the covered order, and (iii) who has 
+control over the supervised registered entity's efforts to comply with 
+the covered order.
+    Furthermore, the existing Supervisory Reports Provision requires 
+that the supervised registered entity submit on annual basis a written 
+statement signed by the applicable attesting executive for each covered 
+order to which it is subject that took effect after the applicable 
+implementation date. In the written statement, the attesting executive 
+must: (i) generally describe the steps that the attesting executive has 
+undertaken to review and oversee the supervised registered entity's 
+activities subject to the applicable covered order for the preceding 
+calendar year; and (ii) attest whether, to the attesting executive's 
+knowledge, the supervised registered entity during the preceding 
+calendar year identified any violations or other instances of 
+noncompliance with any obligations that were imposed in a public 
+provision of the covered order by the applicable agency or court based 
+on a violation of a covered law.
+    Under the provision of this final rule rescinding the Supervisory 
+Reports Provision, affected entities will no longer have to designate 
+an attesting executive or submit a written statement signed by the 
+applicable attesting executive for each covered order to which they are 
+subject that took effect after the applicable implementation date. This 
+should lower compliance costs and legal risk for entities, including 
+small entities. Therefore, the rescission of the Supervisory Reports 
+Provision will impose no significant burden on small entities.
+3. Publication Provision
+    The Publication Provision allows the Bureau, at its discretion, to 
+publish (1) registered entities' identifying information, (2) 
+information regarding covered orders that they provide to the Bureau, 
+and (3) for supervised registered entities, the name and title of the 
+attesting executive, on the Bureau's internet website. Rescinding this 
+provision should not impose any costs on entities, including small 
+entities. Therefore, the provision of this final rule rescinding the 
+Publication Provision will impose no significant burden on small 
+entities.
+    For the reasons described above, the Bureau believes that no 
+provision of the final rule will have a significant economic impact on 
+a substantial number of small entities. Moreover, the impact of each 
+provision is sufficiently small that the three provisions together will 
+not have a significant economic impact on a substantial number of small 
+entities.
+    Accordingly, the Acting Director certifies that this final rule 
+will not have a significant economic impact on a substantial number of 
+small entities. Thus, a FRFA is not required for this final rule.
+
+XIV. Congressional Review Act
+
+    Pursuant to the Congressional Review Act (5 U.S.C. 801 et seq.), 
+the Bureau will submit a report containing this rule and other required 
+information to the U.S. Senate, the U.S. House of Representatives, and 
+the Comptroller General of the United States prior to the rule taking 
+effect. The Office of Information and Regulatory Affairs has designated 
+this rule as not a ``major rule'' as defined by 5 U.S.C. 804(2).
+
+List of Subjects in 12 CFR Part 1092
+
+    Administrative practice and procedure, Consumer protection, Credit, 
+Intergovernmental relations, Law enforcement, Nonbank registration, 
+Registration, Reporting and recordkeeping requirements, Trade 
+practices.
+
+Authority and Issuance
+
+PART 1092--[Removed and Reserved]
+
+0
+For the reasons set forth above, and under the authority of 12 U.S.C. 
+5512 and 5514, the Bureau amends 12 CFR chapter X by removing and 
+reserving part 1092.
+
+Russell Vought,
+Acting Director, Consumer Financial Protection Bureau.
+[FR Doc. 2025-19689 Filed 10-28-25; 8:45 am]
+BILLING CODE 4810-AM-P
