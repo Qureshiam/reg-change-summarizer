@@ -4,6 +4,8 @@ An AI tool that reads a CFPB rule or notice and produces an impact summary for a
 
 **Live demo:** https://reg-change-summarizer.streamlit.app
 
+![Screenshot of the Regulatory Change Summarizer showing a summary of the COVID-19 Reg X rescission](screenshot.png)
+
 ## The problem
 
 When a new rule lands, a compliance team has to answer the same questions quickly: Does this apply to us? When does it take effect? What isn't changing? Which processes and teams are affected? Analysts often spend hours on a first-pass read, and the most common mistakes are simple ones: treating a regulatory agenda target as an effective date, missing a partial rescission, or applying an exemption that doesn't fit.
